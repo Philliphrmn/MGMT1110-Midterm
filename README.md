@@ -1,6 +1,6 @@
 # MGMT 1110 Midterm Trainer
 
-Learning app for the MGMT 1110 midterm question catalog (chapters 1, 2, 3, 4, 6).
+Learning app for the MGMT 1110 midterm question catalog (chapters 1–7).
 
 - **Learn** – Anki-style spaced repetition per chapter or across all chapters (wrong → repeated in the session; right → Hard / Good / Easy).
 - **Go through all** – every question of a chapter in order, without touching the schedule.
@@ -23,10 +23,10 @@ Every user has their own account (Supabase Auth, email + password) and their own
 - `supabase/migrations/` – database schema.
 - `supabase/seed/chN.sql` – generated upserts (`npm run seed`).
 
-### Adding a chapter (e.g. 5 or 7)
+### Adding a chapter
 
-1. Add `data/ch5.json` in the same format and its model answers to `data/open_answers.json`.
-2. Run `npm run seed` and execute `supabase/seed/ch5.sql` in the Supabase SQL editor.
+1. Add `data/chN.json` in the same format and its model answers to `data/open_answers.json`.
+2. Run `npm run seed` and execute `supabase/seed/chN.sql` in the Supabase SQL editor.
 3. The app picks the new chapter up automatically; existing progress is kept.
 
 ## Development
