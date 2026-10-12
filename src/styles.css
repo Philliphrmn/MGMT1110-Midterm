@@ -178,6 +178,7 @@ ul.small li { margin-bottom: 0.4rem; }
 }
 .pill.due { border-color: var(--c-review); color: var(--c-review); }
 .pill.new { border-color: var(--c-learning); color: var(--c-learning); }
+.pill.unsure { border-color: var(--bad); color: var(--bad); background: var(--bad-bg); }
 .pill.corrected { border-color: var(--warn); color: var(--warn); background: var(--warn-bg); }
 
 /* question */

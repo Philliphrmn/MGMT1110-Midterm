@@ -2,49 +2,505 @@
  "chapter": 7,
  "title": "Structuring and Designing Organizations",
  "mc": [
-  {"n":1,"q":"All of the following are part of the process of organizational design EXCEPT ________.","o":["deciding how specialized jobs should be","determining rules for employee behavior","determining the level at which decisions are made","determining goals for the organization"],"a":"D","marked":"D"},
-  {"n":2,"q":"Which one of the following pairs include items that are NOT basic elements of organizational design?","o":["work specialization, span of control","chain of command, line authority","centralization, decentralization","departmentalization, formalization"],"a":"B","marked":"B"},
-  {"n":3,"q":"Which one of the following is synonymous with work specialization?","o":["division of labor","job discrimination","chain of command","job preference"],"a":"A","marked":"A"},
-  {"n":4,"q":"Which statement accurately defines work specialization?","o":["It is the degree to which tasks are grouped together.","Individual employees specialize in doing part of an activity rather than the entire activity.","Jobs are ranked relative only to their worth or value to the businesses.","Work specialization clarifies who reports to whom."],"a":"B","marked":"B"},
-  {"n":5,"q":"Early supporters of work specialization saw it as ________.","o":["a reliable way to increase productivity","a good way to increase employee morale","a source of innovation","an immoral way to coerce workers into greater productivity"],"a":"A","marked":"A"},
-  {"n":6,"q":"Early users of work specialization in the early twentieth century found that the practice ultimately resulted in ________.","o":["higher profits and better employee morale","bored workers with low morale","huge and permanent productivity gains","better communication among employees"],"a":"B","marked":"B"},
-  {"n":7,"q":"Today, managers favor this approach with regard to work specialization.","o":["All tasks are performed by all employees to promote fairness.","Partners switch jobs every half hour to overcome boredom.","Employees specialize to maintain efficiency.","Monotonous tasks are shared by all employees to prevent perceived favoritism."],"a":"C","marked":"C"},
-  {"n":8,"q":"Functional departmentalization groups jobs by ________.","o":["tasks they perform","territories they serve","products or services they manufacture or produce","type of customer they serve"],"a":"A","marked":"A"},
-  {"n":9,"q":"A soap company that features a bath soap department, a laundry detergent department, and a dish soap department is using which one of the following?","o":["process departmentalization","functional departmentalization","product departmentalization","customer departmentalization"],"a":"C","marked":"C"},
-  {"n":10,"q":"What kind of departmentalization would be in place in a government agency in which there are separate departments that provide services for employers, employed workers, unemployed workers, and the disabled?","o":["product","geographic","outcome","customer"],"a":"D","marked":"D"},
-  {"n":11,"q":"Health clinic offices usually use this kind of departmentalization.","o":["product","functional","customer","process"],"a":"D","marked":null,"note":"Not marked on the sheet. Process departmentalization groups jobs on the basis of product or customer flow – patients move through registration, examination, lab, billing. Somewhat debatable – please double-check with your instructor."},
-  {"n":12,"q":"The chain of command answers this question.","o":["Where do I go for help?","How do I know when the task is complete?","What are the rules?","Who reports to whom?"],"a":"D","marked":null,"note":"Not marked on the sheet. Chain of command = line of authority that clarifies who reports to whom."},
-  {"n":13,"q":"In the chain of command, each person above you ________.","o":["has special privileges","receives higher pay","has line authority","has no right to give you orders"],"a":"C","marked":null,"note":"Not marked on the sheet. Line authority entitles a manager to direct the work of subordinates."},
-  {"n":14,"q":"Staff managers have authority over ________.","o":["support employees only","line managers","middle managers","the person above them in the chain of command"],"a":"A","marked":null,"note":"Not marked on the sheet. Staff authority supports, assists and advises line managers; staff managers only direct their own support staff."},
-  {"n":15,"q":"Line authority gives a manager the ability to direct the work of ________.","o":["any employee in the firm","any subordinate","any subordinate, after consulting with the next higher level","only subordinates one level down"],"a":"B","marked":null,"note":"Not marked on the sheet."},
-  {"n":16,"q":"________ prevents a single employee from getting conflicting orders from two different superiors.","o":["Line authority","Unity of command","Staff authority","Chain of command"],"a":"B","marked":null,"note":"Not marked on the sheet. Unity of command: each person reports to only one manager."},
-  {"n":17,"q":"The importance of unity of command has diminished in today's workplace because of its tendency to be ________.","o":["inflexible and inefficient","ethically questionable","chauvinistic and dictatorial","too decisive"],"a":"A","marked":null,"note":"Not marked on the sheet."},
-  {"n":18,"q":"Which one of the following statements is true?","o":["Power is a right.","Authority is one's ability to influence decisions.","Authority is a right.","Both power and authority are rights."],"a":"C","marked":null,"note":"Not marked on the sheet. Authority is a right (based on position); power is a capacity to influence decisions."},
-  {"n":19,"q":"The personal assistant of a top manager may have ________.","o":["power but not authority","authority but not power","power and authority","line authority but not staff authority"],"a":"A","marked":null,"note":"Not marked on the sheet. Being close to the top (power cone) gives influence without formal authority."},
-  {"n":20,"q":"Which one of the following statements is true?","o":["Power is a type of authority.","Authority and power are identical.","Authority is a type of power.","Power is determined by horizontal position in an organization."],"a":"C","marked":null,"note":"Not marked on the sheet. Authority is one part of the broader concept of power."},
-  {"n":21,"q":"As represented in a power cone, power is based on ________.","o":["vertical position only","horizontal position only","distance from the center only","vertical position and distance from the center"],"a":"D","marked":"D"},
-  {"n":22,"q":"As represented in a hierarchical organization diagram, authority is based on ________.","o":["vertical position only","horizontal position only","distance from the center only","horizontal and vertical position"],"a":"A","marked":"A"},
-  {"n":23,"q":"A construction site supervisor who sees an impending thunderstorm and tells workers to go home is demonstrating ________.","o":["line authority","staff delegation","provisional accountability","unity of command"],"a":"A","marked":"A"},
-  {"n":24,"q":"________ is the power that rests on the leader's ability to punish or control.","o":["Reward power","Coercive power","Expert power","Referent power"],"a":"B","marked":"B"},
-  {"n":25,"q":"A bank manager who passes out bonuses at the end of the year is exercising this.","o":["reward power","coercive power","expert power","referent power"],"a":"A","marked":"A"},
-  {"n":26,"q":"Your firm's attorney has ________ power when giving legal advice.","o":["legitimate","status","expert","coercive"],"a":"C","marked":"C"},
-  {"n":27,"q":"________ is the power that arises when a person is close to another person who has great power and authority.","o":["Expert power","Referent power","Reward power","Legitimate power"],"a":"B","marked":"B"},
-  {"n":28,"q":"When a top manager decides to hire an individual over the objections of her staff, she is exercising which kind of power?","o":["referent","expert","coercive","legitimate"],"a":"D","marked":"D"},
-  {"n":29,"q":"Modern managers find that they can ________ if their employees are experienced, well-trained, and motivated.","o":["increase their span of control","decrease their span of control","eliminate their span of control","fluctuate their span of control"],"a":"A","marked":"A"},
-  {"n":30,"q":"A ________ subcontracts part of a project to outside suppliers.","o":["virtual organization","boundary organization","matrix structure","network organization"],"a":"D","marked":"D"},
-  {"n":31,"q":"A building contractor follows the network organization model when he does which one of the following?","o":["does the framing and tiling by himself","hires three workers to help with framing","gives orders to workers","farms out the plumbing to a plumbing firm"],"a":"D","marked":"D"},
-  {"n":32,"scenario":"Eric the Redd","q":"Eric, who is trained as an engineer, is now in a group with production workers and marketing specialists from different departments designing a new product that the company plans to offer. This situation could be described as a(n) ________.","o":["alternative assignment","collective assignment","advanced assignment","project assignment"],"a":"D","marked":"D"},
-  {"n":33,"q":"Which one of the following is the biggest concern when doing work at anytime and anywhere?","o":["employee payroll","security","employee accountability","customer satisfaction"],"a":"B","marked":"C","note":"CORRECTED: C is circled on the sheet. The textbook names security (protecting the company's important and sensitive information) as the biggest concern of anytime/anywhere work. Please double-check with your instructor."},
-  {"n":34,"q":"Global competition forces firms to ________.","o":["become lean, fast, and flexible","build up enormous cash reserves","think locally","become more hierarchical"],"a":"A","marked":"A"},
-  {"n":35,"q":"A learning organization develops the capability to ________.","o":["add new training programs to keep employees up to date","accept the conventional wisdom of the industry","continuously learn, adapt, and change","attract new employees who have special knowledge"],"a":"C","marked":"C"},
-  {"n":36,"q":"A learning organization requires employees to ________.","o":["encode information to prevent competitors from stealing ideas","collaborate with competitors","make all ideas public","share information and collaborate with one another"],"a":"D","marked":"D"},
-  {"n":37,"q":"All of the following are characteristic of learning organizations EXCEPT ________.","o":["a strong sense of community","a collaborative environment","managers who serve as facilitators","fear of making mistakes"],"a":"D","marked":"D"},
-  {"n":38,"q":"Organizational learning can't take place without ________.","o":["complete privacy for employees","a clear chain of command","information","a stable structure or hierarchy"],"a":"C","marked":"C"},
-  {"n":39,"q":"In a learning organization, it is important that all employees ________.","o":["collaborate","study each night","have a strong sense of leadership","share the same vision for the organization"],"a":"D","marked":null,"note":"Not marked on the sheet. Learning organizations need a shared vision that everyone agrees on (\"collaborate\" is also a feature, but the textbook stresses the shared vision for ALL employees). Debatable – please double-check with your instructor."},
-  {"n":40,"q":"Organizational design requires a manager to ________.","o":["decide who leads a group within an organization","change the culture of an organization","change or develop the structure of an organization","change the logo of an organization"],"a":"C","marked":"C"}
+  {
+   "n": 1,
+   "q": "All of the following are part of the process of organizational design EXCEPT ________.",
+   "o": [
+    "deciding how specialized jobs should be",
+    "determining rules for employee behavior",
+    "determining the level at which decisions are made",
+    "determining goals for the organization"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 2,
+   "q": "Which one of the following pairs include items that are NOT basic elements of organizational design?",
+   "o": [
+    "work specialization, span of control",
+    "chain of command, line authority",
+    "centralization, decentralization",
+    "departmentalization, formalization"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 3,
+   "q": "Which one of the following is synonymous with work specialization?",
+   "o": [
+    "division of labor",
+    "job discrimination",
+    "chain of command",
+    "job preference"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 4,
+   "q": "Which statement accurately defines work specialization?",
+   "o": [
+    "It is the degree to which tasks are grouped together.",
+    "Individual employees specialize in doing part of an activity rather than the entire activity.",
+    "Jobs are ranked relative only to their worth or value to the businesses.",
+    "Work specialization clarifies who reports to whom."
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 5,
+   "q": "Early supporters of work specialization saw it as ________.",
+   "o": [
+    "a reliable way to increase productivity",
+    "a good way to increase employee morale",
+    "a source of innovation",
+    "an immoral way to coerce workers into greater productivity"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 6,
+   "q": "Early users of work specialization in the early twentieth century found that the practice ultimately resulted in ________.",
+   "o": [
+    "higher profits and better employee morale",
+    "bored workers with low morale",
+    "huge and permanent productivity gains",
+    "better communication among employees"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 7,
+   "q": "Today, managers favor this approach with regard to work specialization.",
+   "o": [
+    "All tasks are performed by all employees to promote fairness.",
+    "Partners switch jobs every half hour to overcome boredom.",
+    "Employees specialize to maintain efficiency.",
+    "Monotonous tasks are shared by all employees to prevent perceived favoritism."
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 8,
+   "q": "Functional departmentalization groups jobs by ________.",
+   "o": [
+    "tasks they perform",
+    "territories they serve",
+    "products or services they manufacture or produce",
+    "type of customer they serve"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 9,
+   "q": "A soap company that features a bath soap department, a laundry detergent department, and a dish soap department is using which one of the following?",
+   "o": [
+    "process departmentalization",
+    "functional departmentalization",
+    "product departmentalization",
+    "customer departmentalization"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 10,
+   "q": "What kind of departmentalization would be in place in a government agency in which there are separate departments that provide services for employers, employed workers, unemployed workers, and the disabled?",
+   "o": [
+    "product",
+    "geographic",
+    "outcome",
+    "customer"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 11,
+   "q": "Health clinic offices usually use this kind of departmentalization.",
+   "o": [
+    "product",
+    "functional",
+    "customer",
+    "process"
+   ],
+   "a": "D",
+   "marked": null,
+   "note": "Not marked on the sheet. Process departmentalization groups jobs on the basis of product or customer flow – patients move through registration, examination, lab, billing. Somewhat debatable – please double-check with your instructor.",
+   "unsure": true
+  },
+  {
+   "n": 12,
+   "q": "The chain of command answers this question.",
+   "o": [
+    "Where do I go for help?",
+    "How do I know when the task is complete?",
+    "What are the rules?",
+    "Who reports to whom?"
+   ],
+   "a": "D",
+   "marked": null,
+   "note": "Not marked on the sheet. Chain of command = line of authority that clarifies who reports to whom."
+  },
+  {
+   "n": 13,
+   "q": "In the chain of command, each person above you ________.",
+   "o": [
+    "has special privileges",
+    "receives higher pay",
+    "has line authority",
+    "has no right to give you orders"
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet. Line authority entitles a manager to direct the work of subordinates."
+  },
+  {
+   "n": 14,
+   "q": "Staff managers have authority over ________.",
+   "o": [
+    "support employees only",
+    "line managers",
+    "middle managers",
+    "the person above them in the chain of command"
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet. Staff authority supports, assists and advises line managers; staff managers only direct their own support staff."
+  },
+  {
+   "n": 15,
+   "q": "Line authority gives a manager the ability to direct the work of ________.",
+   "o": [
+    "any employee in the firm",
+    "any subordinate",
+    "any subordinate, after consulting with the next higher level",
+    "only subordinates one level down"
+   ],
+   "a": "B",
+   "marked": null,
+   "note": "Not marked on the sheet."
+  },
+  {
+   "n": 16,
+   "q": "________ prevents a single employee from getting conflicting orders from two different superiors.",
+   "o": [
+    "Line authority",
+    "Unity of command",
+    "Staff authority",
+    "Chain of command"
+   ],
+   "a": "B",
+   "marked": null,
+   "note": "Not marked on the sheet. Unity of command: each person reports to only one manager."
+  },
+  {
+   "n": 17,
+   "q": "The importance of unity of command has diminished in today's workplace because of its tendency to be ________.",
+   "o": [
+    "inflexible and inefficient",
+    "ethically questionable",
+    "chauvinistic and dictatorial",
+    "too decisive"
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet."
+  },
+  {
+   "n": 18,
+   "q": "Which one of the following statements is true?",
+   "o": [
+    "Power is a right.",
+    "Authority is one's ability to influence decisions.",
+    "Authority is a right.",
+    "Both power and authority are rights."
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet. Authority is a right (based on position); power is a capacity to influence decisions."
+  },
+  {
+   "n": 19,
+   "q": "The personal assistant of a top manager may have ________.",
+   "o": [
+    "power but not authority",
+    "authority but not power",
+    "power and authority",
+    "line authority but not staff authority"
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet. Being close to the top (power cone) gives influence without formal authority."
+  },
+  {
+   "n": 20,
+   "q": "Which one of the following statements is true?",
+   "o": [
+    "Power is a type of authority.",
+    "Authority and power are identical.",
+    "Authority is a type of power.",
+    "Power is determined by horizontal position in an organization."
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet. Authority is one part of the broader concept of power."
+  },
+  {
+   "n": 21,
+   "q": "As represented in a power cone, power is based on ________.",
+   "o": [
+    "vertical position only",
+    "horizontal position only",
+    "distance from the center only",
+    "vertical position and distance from the center"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 22,
+   "q": "As represented in a hierarchical organization diagram, authority is based on ________.",
+   "o": [
+    "vertical position only",
+    "horizontal position only",
+    "distance from the center only",
+    "horizontal and vertical position"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 23,
+   "q": "A construction site supervisor who sees an impending thunderstorm and tells workers to go home is demonstrating ________.",
+   "o": [
+    "line authority",
+    "staff delegation",
+    "provisional accountability",
+    "unity of command"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 24,
+   "q": "________ is the power that rests on the leader's ability to punish or control.",
+   "o": [
+    "Reward power",
+    "Coercive power",
+    "Expert power",
+    "Referent power"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 25,
+   "q": "A bank manager who passes out bonuses at the end of the year is exercising this.",
+   "o": [
+    "reward power",
+    "coercive power",
+    "expert power",
+    "referent power"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 26,
+   "q": "Your firm's attorney has ________ power when giving legal advice.",
+   "o": [
+    "legitimate",
+    "status",
+    "expert",
+    "coercive"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 27,
+   "q": "________ is the power that arises when a person is close to another person who has great power and authority.",
+   "o": [
+    "Expert power",
+    "Referent power",
+    "Reward power",
+    "Legitimate power"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 28,
+   "q": "When a top manager decides to hire an individual over the objections of her staff, she is exercising which kind of power?",
+   "o": [
+    "referent",
+    "expert",
+    "coercive",
+    "legitimate"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 29,
+   "q": "Modern managers find that they can ________ if their employees are experienced, well-trained, and motivated.",
+   "o": [
+    "increase their span of control",
+    "decrease their span of control",
+    "eliminate their span of control",
+    "fluctuate their span of control"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 30,
+   "q": "A ________ subcontracts part of a project to outside suppliers.",
+   "o": [
+    "virtual organization",
+    "boundary organization",
+    "matrix structure",
+    "network organization"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 31,
+   "q": "A building contractor follows the network organization model when he does which one of the following?",
+   "o": [
+    "does the framing and tiling by himself",
+    "hires three workers to help with framing",
+    "gives orders to workers",
+    "farms out the plumbing to a plumbing firm"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 32,
+   "scenario": "Eric the Redd",
+   "q": "Eric, who is trained as an engineer, is now in a group with production workers and marketing specialists from different departments designing a new product that the company plans to offer. This situation could be described as a(n) ________.",
+   "o": [
+    "alternative assignment",
+    "collective assignment",
+    "advanced assignment",
+    "project assignment"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 33,
+   "q": "Which one of the following is the biggest concern when doing work at anytime and anywhere?",
+   "o": [
+    "employee payroll",
+    "security",
+    "employee accountability",
+    "customer satisfaction"
+   ],
+   "a": "B",
+   "marked": "C",
+   "note": "CORRECTED: C is circled on the sheet. The textbook names security (protecting the company's important and sensitive information) as the biggest concern of anytime/anywhere work. Please double-check with your instructor.",
+   "unsure": true
+  },
+  {
+   "n": 34,
+   "q": "Global competition forces firms to ________.",
+   "o": [
+    "become lean, fast, and flexible",
+    "build up enormous cash reserves",
+    "think locally",
+    "become more hierarchical"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 35,
+   "q": "A learning organization develops the capability to ________.",
+   "o": [
+    "add new training programs to keep employees up to date",
+    "accept the conventional wisdom of the industry",
+    "continuously learn, adapt, and change",
+    "attract new employees who have special knowledge"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 36,
+   "q": "A learning organization requires employees to ________.",
+   "o": [
+    "encode information to prevent competitors from stealing ideas",
+    "collaborate with competitors",
+    "make all ideas public",
+    "share information and collaborate with one another"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 37,
+   "q": "All of the following are characteristic of learning organizations EXCEPT ________.",
+   "o": [
+    "a strong sense of community",
+    "a collaborative environment",
+    "managers who serve as facilitators",
+    "fear of making mistakes"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 38,
+   "q": "Organizational learning can't take place without ________.",
+   "o": [
+    "complete privacy for employees",
+    "a clear chain of command",
+    "information",
+    "a stable structure or hierarchy"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 39,
+   "q": "In a learning organization, it is important that all employees ________.",
+   "o": [
+    "collaborate",
+    "study each night",
+    "have a strong sense of leadership",
+    "share the same vision for the organization"
+   ],
+   "a": "D",
+   "marked": null,
+   "note": "Not marked on the sheet. Learning organizations need a shared vision that everyone agrees on (\"collaborate\" is also a feature, but the textbook stresses the shared vision for ALL employees). Debatable – please double-check with your instructor.",
+   "unsure": true
+  },
+  {
+   "n": 40,
+   "q": "Organizational design requires a manager to ________.",
+   "o": [
+    "decide who leads a group within an organization",
+    "change the culture of an organization",
+    "change or develop the structure of an organization",
+    "change the logo of an organization"
+   ],
+   "a": "C",
+   "marked": "C"
+  }
  ],
  "scenarios": {
-  "Eric the Redd":"Eric Redd graduated from college and was hired by a corporation that manufactured parts for the automotive industry. The employees on the assembly line seemed bored, and their motivation was low. Eric's employer decided to try to reorganize to increase productivity. During his career, Eric will see his job change from an engineer to a more complex job assignment."
+  "Eric the Redd": "Eric Redd graduated from college and was hired by a corporation that manufactured parts for the automotive industry. The employees on the assembly line seemed bored, and their motivation was low. Eric's employer decided to try to reorganize to increase productivity. During his career, Eric will see his job change from an engineer to a more complex job assignment."
  },
  "open": [
   "In a short essay, describe the matrix structure. What are its advantages and disadvantages?",

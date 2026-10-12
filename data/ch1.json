@@ -2,51 +2,508 @@
  "chapter": 1,
  "title": "Managing Today: The Real Talk on Bossing Up",
  "mc": [
-  {"n":1,"q":"The work of a manager ________.","o":["is strictly limited to overseeing and monitoring the work of others","may involve performing tasks that are not related to overseeing others","involves only high-level tasks that require a sophisticated skill set","does not involve interaction with nonmanagerial employees"],"a":"B","marked":"B"},
-  {"n":2,"q":"Which one of the following did Taylor NOT find appalling in his study of workers in steel companies?","o":["Workers \"took it easy\" on the job.","Workers employed different techniques for the same job.","Workers would only attempt to perform a job if they were shown to have aptitude for it.","Worker output was only about one-third of what was possible."],"a":"C","marked":"C"},
-  {"n":3,"q":"Which one of the following might be an example of increased efficiency in manufacturing?","o":["cutting the amount of labor required to make the product","cutting the price of the product","increasing sales of the product","increasing advertising for the product"],"a":"A","marked":null,"note":"Not marked on the sheet. Efficiency = getting more output from fewer inputs (labor is an input)."},
-  {"n":4,"q":"A candy manufacturer would increase both efficiency and effectiveness by making ________.","o":["better candy at the same cost","better candy at a lower cost","the same candy at a lower cost","the same candy at the same cost"],"a":"B","marked":null,"note":"Not marked on the sheet. Better candy = effectiveness (goal attainment), lower cost = efficiency (fewer resources)."},
-  {"n":5,"q":"A candy manufacturer that made candy at a lower cost without improving the quality of the candy could be said to ________.","o":["increase effectiveness without increasing efficiency","increase efficiency without increasing effectiveness","increase both effectiveness and efficiency","decrease both effectiveness and efficiency"],"a":"B","marked":"B"},
-  {"n":6,"q":"Giving a speech at an organization banquet would fall into which Mintzberg category?","o":["informational","interpersonal","decisional","entrepreneurial"],"a":"B","marked":null,"note":"Not marked on the sheet. Ceremonial duties = figurehead role, which belongs to the interpersonal category."},
-  {"n":7,"scenario":"The Busy Day","q":"When Don attends the retirement party, he will be operating in which of the management roles?","o":["leader","liaison","monitor","figurehead"],"a":"D","marked":"D"},
-  {"n":8,"scenario":"The Busy Day","q":"When Don meets with Phil to discuss Phil's output decline, in which management role will Don be operating?","o":["leader","figurehead","disseminator","spokesperson"],"a":"A","marked":"A"},
-  {"n":9,"scenario":"The Busy Day","q":"What kind of a manager is Don likely to be?","o":["first-line manager","CEO of a major corporation","low-level middle manager","plant manager"],"a":"D","marked":"D"},
-  {"n":10,"scenario":"The General Manager","q":"When Michelle learns from city officials about how her plant's operations may be affecting the environment, she is performing which management role?","o":["leader","resource allocator","entrepreneur","liaison"],"a":"D","marked":"D","note":"On the sheet both B and D look partly circled; D (liaison = contact with outsiders) is correct."},
-  {"n":11,"scenario":"The General Manager","q":"When Michelle spends time searching for new technologies for her plant, she is performing which management role?","o":["leader","entrepreneur","spokesperson","disturbance handler"],"a":"B","marked":"B"},
-  {"n":12,"q":"Who stands to benefit least from studying management?","o":["a pro football coach","a pro football spectator","a pro football owner","a pro football player"],"a":"B","marked":"B"},
-  {"n":13,"q":"A common factor that all managers face in today's world is the ________.","o":["changing nature of work","lagging development of technology","demand to move to a production based economy","boredom of employees"],"a":"A","marked":"A"},
-  {"n":14,"q":"A college Spanish club is an example of an organization because it is comprised of people who ________.","o":["share the same values, traditions, and customs","share the same goals and values","share goals and function within a common structure","function under the same set of rules and regulations"],"a":"C","marked":"C"},
-  {"n":15,"q":"Which one of the following is an important job responsibility for a middle manager?","o":["defining the organization's long-term goals","translating goals defined by top managers into action","helping top managers define goals","performing tasks that are not related to long-term goals"],"a":"B","marked":"B"},
-  {"n":16,"q":"Of the following, which one is the lowest level of management?","o":["a nonmanagerial employee","an individual involved in defining the organization's philosophy","a vice president","a middle manager"],"a":"D","marked":"D"},
-  {"n":17,"q":"An organization is ________.","o":["the physical location where people work","any collection of people who perform similar tasks","a deliberate arrangement of people to accomplish some specific purpose","a group of individuals focused on profit-making for their shareholders"],"a":"C","marked":"C"},
-  {"n":18,"q":"A major contribution that Taylor made to the study of management was ________.","o":["to measure efficiency on a 4-star scale","to identify the one best way to get a job done","to identify the three best ways to get a job done","to measure inefficiency on a 4-star scale"],"a":"B","marked":"B"},
-  {"n":19,"scenario":"The Perfect Manager","q":"Brenda's high project completion rate indicates that she is ________.","o":["an efficient manager","an effective manager","a good spokesperson","a good resource allocator"],"a":"B","marked":"B"},
-  {"n":20,"scenario":"The Perfect Manager","q":"If Brenda accomplished her projects with high-quality results, but she took more time than other managers in the process, you could say that as a manager she was ________.","o":["efficient, but not effective","a leader, but not a top manager","project oriented, but not effective","effective, but not efficient"],"a":"D","marked":"D"},
-  {"n":21,"q":"Efficiency refers to ________.","o":["the relationship between inputs and outputs","the additive relationship between inputs and outputs","the inverse relationship between inputs and outputs","decreasing inputs only"],"a":"A","marked":"A"},
-  {"n":22,"scenario":"The Perfect Manager","q":"Brenda's ability to determine what needs to be done and by whom is evidence that she excels at which management function?","o":["planning","controlling","leading","organizing"],"a":"D","marked":"D","note":"B is underlined on the sheet, D is circled. Organizing = determining what needs to be done, how and by whom."},
-  {"n":23,"q":"Today, the basic management functions are considered to be ________.","o":["planning, coordinating, leading, and monitoring","planning, organizing, leading, and motivating","commanding, organizing, leading, and decision making","planning, organizing, leading, and controlling"],"a":"D","marked":"D"},
-  {"n":24,"q":"Which one of the following is NOT considered part of the planning function?","o":["defining goals","motivating","mapping out strategy","making decisions"],"a":"B","marked":"B","note":"The end of the question is cut off in the scan (\"…NOT consider…\"). Wording completed from the textbook test bank – please check against your printout."},
-  {"n":25,"q":"Mintzberg developed his 10 managerial roles by ________.","o":["sending out questionnaires to thousands of managers","observing hundreds of managers over several years","closely monitoring the work activities of five chief executives","using common sense to analyze the situation"],"a":"C","marked":"C"},
-  {"n":26,"q":"A pharmaceutical company manager attending a meeting of academic scientists would be functioning in which role?","o":["informational","figurehead","liaison","decisional"],"a":"C","marked":"C"},
-  {"n":27,"q":"The emphasis that managers give to various activities is generally based on their ________.","o":["organizational level","tenure with the organization","experience in their field","skill specialty"],"a":"A","marked":"A"},
-  {"n":28,"q":"One managerial function that is identical in both Fayol's and Mintzberg's systems is ________.","o":["leader","resource allocator","monitor","negotiator"],"a":"A","marked":"A"},
-  {"n":29,"q":"The managerial role that changes the most between middle and top managers is ________.","o":["planning","organizing","controlling","leading"],"a":"D","marked":"D"},
-  {"n":30,"q":"The role of ________ is more important for managers of small organizations than for managers working in large corporations.","o":["disseminator","spokesperson","entrepreneur","resource allocator"],"a":"B","marked":"B"},
-  {"n":31,"q":"In a small organization, which one of the following is NOT likely to be true?","o":["Planning is not likely to be an orchestrated ritual.","Relationships are more likely to be informal.","Workers are likely to be observed by computerized monitoring systems.","The design of the organization is likely to be less structured and complex."],"a":"C","marked":"C"},
-  {"n":32,"q":"Unlike the manager of a small business, the most important concerns of a manager in a large organization are focused ________.","o":["externally, particularly on entrepreneurial tasks","internally, particularly on the allocation of resources","on setting goals","on planning ways to improve organizational structure"],"a":"B","marked":"B"},
-  {"n":33,"q":"Which one of the following statements regarding management and national culture is the most correct?","o":["The basic principles of management are universal.","Research shows that managerial practices across all countries are not consistent.","There are major differences in the way that most English speaking countries view management.","The route of the differences between how countries practice management is based on their economic principles solely."],"a":"B","marked":"B"},
-  {"n":34,"q":"Companies that are well managed can prosper during difficult economic times by depending on ________.","o":["government bailouts","filing for bankruptcy","raising prices","a loyal customer base"],"a":"D","marked":"D"},
-  {"n":35,"q":"Designing a series of interview questions to provide information about possible customers for a company would primarily require ________.","o":["technical skills","interpersonal skills","conceptual skills","political skills"],"a":"C","marked":"C"},
-  {"n":36,"q":"Which level of management would be more concerned with designing the overall structure of an organization?","o":["middle management","supervisory management","top management","first line management"],"a":"C","marked":"A","note":"CORRECTED: A (middle management) is circled on the sheet. Designing the overall structure of the whole organization is a top-management task (top managers make organization-wide decisions and set plans/structure). Please double-check with your instructor."},
-  {"n":37,"q":"Technical skills might include ________.","o":["excellent verbal skills","proficiency in computer programming","exceptional writing ability","decision-making ability"],"a":"B","marked":"B"},
-  {"n":38,"q":"The primary job of a manager is to ________.","o":["make decisions that help an organization grow","tackle tasks that are too difficult for nonmanagerial employees","coordinate between organization leaders and ordinary employees","direct and oversee the work of others"],"a":"D","marked":"D"},
-  {"n":39,"q":"Which one of the following is NOT a characteristic of a small business?","o":["has more formal managers than a large business","has about 200 employees","is not a \"player\" with impact within its industry","has a relatively small market share of its product"],"a":"A","marked":"A"},
-  {"n":40,"q":"Almost all managerial tasks involve ________.","o":["decision making","technical skills","long-term planning","superb political skills"],"a":"A","marked":"A"}
+  {
+   "n": 1,
+   "q": "The work of a manager ________.",
+   "o": [
+    "is strictly limited to overseeing and monitoring the work of others",
+    "may involve performing tasks that are not related to overseeing others",
+    "involves only high-level tasks that require a sophisticated skill set",
+    "does not involve interaction with nonmanagerial employees"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 2,
+   "q": "Which one of the following did Taylor NOT find appalling in his study of workers in steel companies?",
+   "o": [
+    "Workers \"took it easy\" on the job.",
+    "Workers employed different techniques for the same job.",
+    "Workers would only attempt to perform a job if they were shown to have aptitude for it.",
+    "Worker output was only about one-third of what was possible."
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 3,
+   "q": "Which one of the following might be an example of increased efficiency in manufacturing?",
+   "o": [
+    "cutting the amount of labor required to make the product",
+    "cutting the price of the product",
+    "increasing sales of the product",
+    "increasing advertising for the product"
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet. Efficiency = getting more output from fewer inputs (labor is an input)."
+  },
+  {
+   "n": 4,
+   "q": "A candy manufacturer would increase both efficiency and effectiveness by making ________.",
+   "o": [
+    "better candy at the same cost",
+    "better candy at a lower cost",
+    "the same candy at a lower cost",
+    "the same candy at the same cost"
+   ],
+   "a": "B",
+   "marked": null,
+   "note": "Not marked on the sheet. Better candy = effectiveness (goal attainment), lower cost = efficiency (fewer resources)."
+  },
+  {
+   "n": 5,
+   "q": "A candy manufacturer that made candy at a lower cost without improving the quality of the candy could be said to ________.",
+   "o": [
+    "increase effectiveness without increasing efficiency",
+    "increase efficiency without increasing effectiveness",
+    "increase both effectiveness and efficiency",
+    "decrease both effectiveness and efficiency"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 6,
+   "q": "Giving a speech at an organization banquet would fall into which Mintzberg category?",
+   "o": [
+    "informational",
+    "interpersonal",
+    "decisional",
+    "entrepreneurial"
+   ],
+   "a": "B",
+   "marked": null,
+   "note": "Not marked on the sheet. Ceremonial duties = figurehead role, which belongs to the interpersonal category."
+  },
+  {
+   "n": 7,
+   "scenario": "The Busy Day",
+   "q": "When Don attends the retirement party, he will be operating in which of the management roles?",
+   "o": [
+    "leader",
+    "liaison",
+    "monitor",
+    "figurehead"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 8,
+   "scenario": "The Busy Day",
+   "q": "When Don meets with Phil to discuss Phil's output decline, in which management role will Don be operating?",
+   "o": [
+    "leader",
+    "figurehead",
+    "disseminator",
+    "spokesperson"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 9,
+   "scenario": "The Busy Day",
+   "q": "What kind of a manager is Don likely to be?",
+   "o": [
+    "first-line manager",
+    "CEO of a major corporation",
+    "low-level middle manager",
+    "plant manager"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 10,
+   "scenario": "The General Manager",
+   "q": "When Michelle learns from city officials about how her plant's operations may be affecting the environment, she is performing which management role?",
+   "o": [
+    "leader",
+    "resource allocator",
+    "entrepreneur",
+    "liaison"
+   ],
+   "a": "D",
+   "marked": "D",
+   "note": "On the sheet both B and D look partly circled; D (liaison = contact with outsiders) is correct."
+  },
+  {
+   "n": 11,
+   "scenario": "The General Manager",
+   "q": "When Michelle spends time searching for new technologies for her plant, she is performing which management role?",
+   "o": [
+    "leader",
+    "entrepreneur",
+    "spokesperson",
+    "disturbance handler"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 12,
+   "q": "Who stands to benefit least from studying management?",
+   "o": [
+    "a pro football coach",
+    "a pro football spectator",
+    "a pro football owner",
+    "a pro football player"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 13,
+   "q": "A common factor that all managers face in today's world is the ________.",
+   "o": [
+    "changing nature of work",
+    "lagging development of technology",
+    "demand to move to a production based economy",
+    "boredom of employees"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 14,
+   "q": "A college Spanish club is an example of an organization because it is comprised of people who ________.",
+   "o": [
+    "share the same values, traditions, and customs",
+    "share the same goals and values",
+    "share goals and function within a common structure",
+    "function under the same set of rules and regulations"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 15,
+   "q": "Which one of the following is an important job responsibility for a middle manager?",
+   "o": [
+    "defining the organization's long-term goals",
+    "translating goals defined by top managers into action",
+    "helping top managers define goals",
+    "performing tasks that are not related to long-term goals"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 16,
+   "q": "Of the following, which one is the lowest level of management?",
+   "o": [
+    "a nonmanagerial employee",
+    "an individual involved in defining the organization's philosophy",
+    "a vice president",
+    "a middle manager"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 17,
+   "q": "An organization is ________.",
+   "o": [
+    "the physical location where people work",
+    "any collection of people who perform similar tasks",
+    "a deliberate arrangement of people to accomplish some specific purpose",
+    "a group of individuals focused on profit-making for their shareholders"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 18,
+   "q": "A major contribution that Taylor made to the study of management was ________.",
+   "o": [
+    "to measure efficiency on a 4-star scale",
+    "to identify the one best way to get a job done",
+    "to identify the three best ways to get a job done",
+    "to measure inefficiency on a 4-star scale"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 19,
+   "scenario": "The Perfect Manager",
+   "q": "Brenda's high project completion rate indicates that she is ________.",
+   "o": [
+    "an efficient manager",
+    "an effective manager",
+    "a good spokesperson",
+    "a good resource allocator"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 20,
+   "scenario": "The Perfect Manager",
+   "q": "If Brenda accomplished her projects with high-quality results, but she took more time than other managers in the process, you could say that as a manager she was ________.",
+   "o": [
+    "efficient, but not effective",
+    "a leader, but not a top manager",
+    "project oriented, but not effective",
+    "effective, but not efficient"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 21,
+   "q": "Efficiency refers to ________.",
+   "o": [
+    "the relationship between inputs and outputs",
+    "the additive relationship between inputs and outputs",
+    "the inverse relationship between inputs and outputs",
+    "decreasing inputs only"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 22,
+   "scenario": "The Perfect Manager",
+   "q": "Brenda's ability to determine what needs to be done and by whom is evidence that she excels at which management function?",
+   "o": [
+    "planning",
+    "controlling",
+    "leading",
+    "organizing"
+   ],
+   "a": "D",
+   "marked": "D",
+   "note": "B is underlined on the sheet, D is circled. Organizing = determining what needs to be done, how and by whom."
+  },
+  {
+   "n": 23,
+   "q": "Today, the basic management functions are considered to be ________.",
+   "o": [
+    "planning, coordinating, leading, and monitoring",
+    "planning, organizing, leading, and motivating",
+    "commanding, organizing, leading, and decision making",
+    "planning, organizing, leading, and controlling"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 24,
+   "q": "Which one of the following is NOT considered part of the planning function?",
+   "o": [
+    "defining goals",
+    "motivating",
+    "mapping out strategy",
+    "making decisions"
+   ],
+   "a": "B",
+   "marked": "B",
+   "note": "The end of the question is cut off in the scan (\"…NOT consider…\"). Wording completed from the textbook test bank – please check against your printout.",
+   "unsure": true
+  },
+  {
+   "n": 25,
+   "q": "Mintzberg developed his 10 managerial roles by ________.",
+   "o": [
+    "sending out questionnaires to thousands of managers",
+    "observing hundreds of managers over several years",
+    "closely monitoring the work activities of five chief executives",
+    "using common sense to analyze the situation"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 26,
+   "q": "A pharmaceutical company manager attending a meeting of academic scientists would be functioning in which role?",
+   "o": [
+    "informational",
+    "figurehead",
+    "liaison",
+    "decisional"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 27,
+   "q": "The emphasis that managers give to various activities is generally based on their ________.",
+   "o": [
+    "organizational level",
+    "tenure with the organization",
+    "experience in their field",
+    "skill specialty"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 28,
+   "q": "One managerial function that is identical in both Fayol's and Mintzberg's systems is ________.",
+   "o": [
+    "leader",
+    "resource allocator",
+    "monitor",
+    "negotiator"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 29,
+   "q": "The managerial role that changes the most between middle and top managers is ________.",
+   "o": [
+    "planning",
+    "organizing",
+    "controlling",
+    "leading"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 30,
+   "q": "The role of ________ is more important for managers of small organizations than for managers working in large corporations.",
+   "o": [
+    "disseminator",
+    "spokesperson",
+    "entrepreneur",
+    "resource allocator"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 31,
+   "q": "In a small organization, which one of the following is NOT likely to be true?",
+   "o": [
+    "Planning is not likely to be an orchestrated ritual.",
+    "Relationships are more likely to be informal.",
+    "Workers are likely to be observed by computerized monitoring systems.",
+    "The design of the organization is likely to be less structured and complex."
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 32,
+   "q": "Unlike the manager of a small business, the most important concerns of a manager in a large organization are focused ________.",
+   "o": [
+    "externally, particularly on entrepreneurial tasks",
+    "internally, particularly on the allocation of resources",
+    "on setting goals",
+    "on planning ways to improve organizational structure"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 33,
+   "q": "Which one of the following statements regarding management and national culture is the most correct?",
+   "o": [
+    "The basic principles of management are universal.",
+    "Research shows that managerial practices across all countries are not consistent.",
+    "There are major differences in the way that most English speaking countries view management.",
+    "The route of the differences between how countries practice management is based on their economic principles solely."
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 34,
+   "q": "Companies that are well managed can prosper during difficult economic times by depending on ________.",
+   "o": [
+    "government bailouts",
+    "filing for bankruptcy",
+    "raising prices",
+    "a loyal customer base"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 35,
+   "q": "Designing a series of interview questions to provide information about possible customers for a company would primarily require ________.",
+   "o": [
+    "technical skills",
+    "interpersonal skills",
+    "conceptual skills",
+    "political skills"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 36,
+   "q": "Which level of management would be more concerned with designing the overall structure of an organization?",
+   "o": [
+    "middle management",
+    "supervisory management",
+    "top management",
+    "first line management"
+   ],
+   "a": "C",
+   "marked": "A",
+   "note": "CORRECTED: A (middle management) is circled on the sheet. Designing the overall structure of the whole organization is a top-management task (top managers make organization-wide decisions and set plans/structure). Please double-check with your instructor.",
+   "unsure": true
+  },
+  {
+   "n": 37,
+   "q": "Technical skills might include ________.",
+   "o": [
+    "excellent verbal skills",
+    "proficiency in computer programming",
+    "exceptional writing ability",
+    "decision-making ability"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 38,
+   "q": "The primary job of a manager is to ________.",
+   "o": [
+    "make decisions that help an organization grow",
+    "tackle tasks that are too difficult for nonmanagerial employees",
+    "coordinate between organization leaders and ordinary employees",
+    "direct and oversee the work of others"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 39,
+   "q": "Which one of the following is NOT a characteristic of a small business?",
+   "o": [
+    "has more formal managers than a large business",
+    "has about 200 employees",
+    "is not a \"player\" with impact within its industry",
+    "has a relatively small market share of its product"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 40,
+   "q": "Almost all managerial tasks involve ________.",
+   "o": [
+    "decision making",
+    "technical skills",
+    "long-term planning",
+    "superb political skills"
+   ],
+   "a": "A",
+   "marked": "A"
+  }
  ],
  "scenarios": {
-  "The Busy Day":"Don Sakaguchi, manager at Control Systems, Inc., sighs as he sips his coffee at 5 A.M. and reads his agenda for the day. Don's first duty is to preside over a retirement party for a beloved employee and say a few words on her behalf. Next, he will give a tour to a news reporter who is writing a story on the new plant expansion. Don then has a meeting with the unit manager, Phil Johnson, to discuss Phil's recent performance drop (a task Don always hates). Finally, in the late afternoon, Don will be reviewing the recent equipment malfunction and deciding whether to deploy extra people to get the equipment running as soon as possible. What a day!",
-  "The General Manager":"Michelle is the general manager of a power plant. This morning, she will meet with city officials to discuss environmental issues. After the meeting, she will confer with the plant's section managers to address the concerns of the city representatives. This afternoon, Michelle will meet with a team leader to go over a complaint filed by an employee. After the complaint meeting, Michelle plans to spend time in the library and on the Internet researching new technologies that can be used to improve the performance of her plant.",
-  "The Perfect Manager":"Brenda Kraft has proven herself to be an able manager. Her section has a high project completion rate with the highest-quality product and the lowest defects in her division. In addition, she accomplishes this with fewer full-time people than other managers. Coworkers say that the secret of her success is in her ability to determine what needs to be done and by whom, and her understanding of the basic \"management processes.\""
+  "The Busy Day": "Don Sakaguchi, manager at Control Systems, Inc., sighs as he sips his coffee at 5 A.M. and reads his agenda for the day. Don's first duty is to preside over a retirement party for a beloved employee and say a few words on her behalf. Next, he will give a tour to a news reporter who is writing a story on the new plant expansion. Don then has a meeting with the unit manager, Phil Johnson, to discuss Phil's recent performance drop (a task Don always hates). Finally, in the late afternoon, Don will be reviewing the recent equipment malfunction and deciding whether to deploy extra people to get the equipment running as soon as possible. What a day!",
+  "The General Manager": "Michelle is the general manager of a power plant. This morning, she will meet with city officials to discuss environmental issues. After the meeting, she will confer with the plant's section managers to address the concerns of the city representatives. This afternoon, Michelle will meet with a team leader to go over a complaint filed by an employee. After the complaint meeting, Michelle plans to spend time in the library and on the Internet researching new technologies that can be used to improve the performance of her plant.",
+  "The Perfect Manager": "Brenda Kraft has proven herself to be an able manager. Her section has a high project completion rate with the highest-quality product and the lowest defects in her division. In addition, she accomplishes this with fewer full-time people than other managers. Coworkers say that the secret of her success is in her ability to determine what needs to be done and by whom, and her understanding of the basic \"management processes.\""
  },
  "open": [
   "In a short essay, list and explain the four basic functions of management.",

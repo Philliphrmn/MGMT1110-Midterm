@@ -17,6 +17,7 @@ export interface Question {
   answer: Letter;
   marked: string | null;
   note: string | null;
+  unsure: boolean;
 }
 
 export interface OpenQuestion {

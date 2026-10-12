@@ -23,7 +23,10 @@ export default function QuestionView({ q, chosen, revealed, onChoose, hideHints 
         <span className="badge">
           Ch. {q.chapter} · Q{q.num}
         </span>
-        {!hideHints && revealed && isCorrected(q) && <span className="pill corrected">corrected</span>}
+        <span className="row">
+          {!hideHints && revealed && q.unsure && <span className="pill unsure">unsure</span>}
+          {!hideHints && revealed && isCorrected(q) && <span className="pill corrected">corrected</span>}
+        </span>
       </div>
 
       {scenarioText && (

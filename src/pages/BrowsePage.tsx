@@ -7,12 +7,16 @@ import { isCorrected, LETTERS } from "../lib/types";
 export default function BrowsePage({ scope }: { scope: string }) {
   const { chapters, questions, cards, resetChapter } = useStore();
   const chapter = scope === "all" ? null : Number(scope);
-  const [filter, setFilter] = useState<"all" | "corrected" | "unmarked">("all");
+  const [filter, setFilter] = useState<"all" | "corrected" | "unmarked" | "unsure">("all");
   const [hideAnswers, setHideAnswers] = useState(false);
 
   const list = questions
     .filter((q) => chapter === null || q.chapter === chapter)
-    .filter((q) => filter === "all" || (filter === "corrected" ? isCorrected(q) : q.marked === null));
+    .filter(
+      (q) =>
+        filter === "all" ||
+        (filter === "corrected" ? isCorrected(q) : filter === "unsure" ? q.unsure : q.marked === null),
+    );
 
   async function reset() {
     const label = chapter === null ? "ALL chapters" : `chapter ${chapter}`;
@@ -31,7 +35,8 @@ export default function BrowsePage({ scope }: { scope: string }) {
         <p className="muted">
           All questions with the answers used in this app.{" "}
           <span className="pill corrected">corrected</span> = differs from what was circled in class;{" "}
-          <span className="pill">not marked</span> = nothing was circled, answer researched.
+          <span className="pill">not marked</span> = nothing was circled, answer researched;{" "}
+          <span className="pill unsure">unsure</span> = answer could not be verified with certainty – ask your instructor.
         </p>
         <div className="row wrap">
           <button className={chapter === null ? "primary" : ""} onClick={() => go("/browse/all")}>
@@ -52,6 +57,7 @@ export default function BrowsePage({ scope }: { scope: string }) {
             <option value="all">All questions</option>
             <option value="corrected">Only corrected answers</option>
             <option value="unmarked">Only not-marked-in-class</option>
+            <option value="unsure">Only unsure answers</option>
           </select>
           <label className="check">
             <input type="checkbox" checked={hideAnswers} onChange={(e) => setHideAnswers(e.target.checked)} /> hide answers
@@ -72,6 +78,7 @@ export default function BrowsePage({ scope }: { scope: string }) {
                 {q.chapter}.{q.num}
               </span>
               <span className="grow">{q.question}</span>
+              {q.unsure && <span className="pill unsure">unsure</span>}
               {isCorrected(q) && <span className="pill corrected">corrected</span>}
               {q.marked === null && <span className="pill">not marked</span>}
               <span className={`dot ${cardStatus(cards.get(q.id))}`} title={cardStatus(cards.get(q.id))} />

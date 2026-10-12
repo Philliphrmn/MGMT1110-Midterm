@@ -2,46 +2,488 @@
  "chapter": 5,
  "title": "Future Proof: Mastering Change and Innovation",
  "mc": [
-  {"n":1,"q":"Which one of the following is an example of a structural organizational change?","o":["changing employee attitudes","changing work practices","purchasing new work equipment","changing managerial span of control"],"a":"D","marked":"D"},
-  {"n":2,"q":"Which one of the following is an example of a technology change within an organization?","o":["forming teams to complete tasks","workers using new software","workers wanting to telecommute","workers wanting flexible hours"],"a":"B","marked":"B"},
-  {"n":3,"q":"Which one of the following is an organizational \"people change?\"","o":["work methods that people use","authority relationships between people","attitudes that people have","job redesign"],"a":"C","marked":"C"},
-  {"n":4,"q":"Which one of the following is an organizational structure change?","o":["the building of a new workshop","resentment of bosses by employees","a new way to package chocolate cake","changing who reports to whom"],"a":"D","marked":"D"},
-  {"n":5,"q":"Which one of the following is an organizational technology change?","o":["purchase of a new backhoe","employees expecting a raise","employees accepting a new schedule","widening of span of control"],"a":"A","marked":"A"},
-  {"n":6,"q":"The Patient Protection and Affordable Care Act is an example of which one of the following forms of environmental change?","o":["internal","technology","government laws and regulations","labor markets"],"a":"C","marked":"C"},
-  {"n":7,"q":"Which one of the following is an internal force that can cause a company to make an organizational change?","o":["a new ad campaign","new safety requirements","a new rival company","new pollution laws"],"a":"A","marked":"A"},
-  {"n":8,"q":"Which one of the following is an external force that would cause a company to make an organizational change?","o":["an organization-wide restructuring","the naming of a new CEO","a widening span of control for managers","a booming economy"],"a":"D","marked":"D"},
-  {"n":9,"q":"To compete with rival company X, company Y changes its management structure. This is an example of ________.","o":["an internal change causing an external change","an internal change causing another internal change","an external change causing another external change","an external change causing an internal change"],"a":"D","marked":"D"},
-  {"n":10,"q":"After a thorough company-wide self-examination, company Y decides to set up work teams. This is an example of ________.","o":["an internal change causing an external change","an internal change causing another internal change","an external change causing another external change","an external change causing an internal change"],"a":"B","marked":"B"},
-  {"n":11,"q":"In organizations, people who act as catalysts and assume the responsibility for managing the change process are called ________.","o":["managers","change agents","change managers","nonmanagerial employees"],"a":"B","marked":"B"},
-  {"n":12,"q":"Outside consultants generally try to initiate ________ changes than internal managers.","o":["more drastic","less drastic","more cautious","fewer"],"a":"A","marked":"A"},
-  {"n":13,"q":"The \"calm waters\" metaphor envisions an organization as ________.","o":["a large ship on a roiling sea","a large ship on a calm sea","a small raft on a calm sea","a small raft on a roiling sea"],"a":"B","marked":"B"},
-  {"n":14,"q":"The \"white-water rapids\" metaphor envisions an organization as ________.","o":["a large ship on a roiling sea","a large ship on a calm sea","a small raft on a calm river","a small raft on a raging river"],"a":"D","marked":"D"},
-  {"n":15,"q":"The \"white-water rapids\" metaphor sees change as ________.","o":["an occasional occurrence","the natural state of things","an unpleasant interruption of the normal calm","something that must be eliminated"],"a":"B","marked":"B"},
-  {"n":16,"q":"The first step in Lewin's three-step description of the change process involves ________.","o":["freezing the new state","changing to a new state","unfreezing the status quo","changing to a new status quo"],"a":"C","marked":"C"},
-  {"n":17,"q":"The final step in Lewin's three-step description of the change process is ________.","o":["freezing the new state","unfreezing the status quo","changing to a new state","unfreezing the new state"],"a":"A","marked":"A"},
-  {"n":18,"q":"According to Lewin, which one of the following is a force that might overcome inertia and unfreeze the status quo?","o":["increase restraining forces","maintain restraining forces","decrease driving forces","increase driving forces"],"a":"D","marked":"D"},
-  {"n":19,"q":"According to Lewin, which one of the following is the objective of refreezing?","o":["to stabilize the new situation","to promote movement away from existing equilibrium","to eliminate the need for future change","to direct behavior away from the status quo"],"a":"A","marked":"A"},
-  {"n":20,"q":"According to Lewin, which one of the following is the best way to unfreeze the status quo?","o":["increase restraining forces","decrease restraining forces and increase driving forces","decrease driving forces","increase restraining forces and increase driving forces"],"a":"B","marked":"B"},
-  {"n":21,"q":"The goal in Lewin's \"calm waters\" metaphor is ________.","o":["to change the current equilibrium state","to reach a state of constant change","to eliminate the equilibrium state","to establish a new equilibrium state"],"a":"D","marked":"D"},
-  {"n":22,"q":"Today, Lewin's \"calm waters\" metaphor is increasingly thought to be ________.","o":["illogical","an apt description of the current situation","a blueprint for the future","obsolete"],"a":"D","marked":"D"},
-  {"n":23,"q":"Which phenomenon in today's business climate has made the \"white-water rapids\" metaphor popular?","o":["reduced competition","corporations that are too powerful","organizations that resist change","constant and chaotic change"],"a":"D","marked":"D"},
-  {"n":24,"q":"Writing laws to reward industries to reduce carbon emissions in an effort to combat global climate change can be best described as an example of which one of the following?","o":["unfreezing the status quo","freezing a change into place","implementing change","refreezing the status quo"],"a":"A","marked":"A"},
-  {"n":25,"q":"________ refers to the ability to combine ideas in a unique way or to make unusual associations between ideas.","o":["Innovation","Imagination","Creativity","Open-minded thinking"],"a":"C","marked":"C"},
-  {"n":26,"q":"________ is the process of taking a creative idea and turning it into something useful.","o":["Innovation","Imagination","Creativity","Inspiration"],"a":"A","marked":"A"},
-  {"n":27,"q":"Some people believe that creativity is ________, while others think that creativity ________.","o":["quickly and easily learned; is slowly learned","a genuine quality; does not really exist","inborn; can be learned","learned; is forgotten after childhood"],"a":"C","marked":"C"},
-  {"n":28,"q":"The first step in creativity involves ________.","o":["making something useful","seeing things from a unique perspective","putting ideas together","consolidating ideas"],"a":"B","marked":"B"},
-  {"n":29,"q":"Which one of the following steps in the creativity process may take years before the idea finally \"gels\" and the next step occurs?","o":["perception","incubation","inspiration","innovation"],"a":"B","marked":"B"},
-  {"n":30,"q":"The moment when all prior efforts in the creativity process successfully come together is known as ________.","o":["perception","incubation","inspiration","innovation"],"a":"C","marked":"C"},
-  {"n":31,"q":"Using the systems model, managers can promote innovation by having the right ________.","o":["people and inputs","people and environment","outputs and resources","mechanistic management structure"],"a":"B","marked":"B","note":"On the sheet A is also marked, B is circled. Textbook: creative people/groups are the inputs, but having creative people isn't enough – it takes the right environment to turn inputs into innovative outputs → people and environment."},
-  {"n":32,"q":"________ variables are thought to promote innovation.","o":["Structural, cultural, and human resource","Organic, cultural, and tolerant","Structural, ambiguous, and tolerant","Cultural, ambiguous, and tolerant"],"a":"A","marked":"A"},
-  {"n":33,"q":"An innovative organization needs to tolerate ________ because creative ideas sometimes seem foolish at first.","o":["mismanagement","the impractical","conflict","inefficiency"],"a":"B","marked":"B"},
-  {"n":34,"q":"Managers who want creative and innovative employees should ________.","o":["not place much emphasis on goals","focus on means rather than ends","focus on ends rather than means","stress that there is only one path to a goal"],"a":"C","marked":"C","note":"On the sheet B is also marked, C is circled. Innovative cultures focus on ends (goals) rather than means – there can be several paths to a goal."},
-  {"n":35,"q":"________ actively support innovation and every step of the process that leads to innovative ideas.","o":["Idea champions","Idea managers","All managers","Champion managers"],"a":"A","marked":"A"},
-  {"n":36,"q":"All of the following are common personality characteristics of idea champions EXCEPT ________.","o":["extremely high self-confidence","persistence","energy","risk aversion"],"a":"D","marked":"D"},
-  {"n":37,"q":"Samll community libraries are facing ________ from electronic devices such as Kindle and online reading services.","o":["continuous innovation","sustaining innovation","creative inspiration","disruptive innovation"],"a":"D","marked":"D"},
-  {"n":38,"q":"Majico, Inc., has a small team that works in a separate building on projects tangentially related to the company's main mission. They self-govern and have access to ample resources, most of it off-budget. They are free from the bureaucratic restraints placed on the \"official\" workforce. This team comprises a ________.","o":["badger team","skunk works","creative response team","sustaining innovation team"],"a":"B","marked":"B"},
-  {"n":39,"q":"A company's workers asking to be able to celebrate Mexican holidays is an example of ________ force for change.","o":["an external workforce composition","an internal workforce composition","an external tactic","an internal strategy"],"a":"B","marked":"B"},
-  {"n":40,"q":"Labor strikes are an example of what change factor that may encourage a change in management thinking and practices?","o":["workforce composition","equipment","employee attitude","strategy"],"a":"C","marked":"C"}
+  {
+   "n": 1,
+   "q": "Which one of the following is an example of a structural organizational change?",
+   "o": [
+    "changing employee attitudes",
+    "changing work practices",
+    "purchasing new work equipment",
+    "changing managerial span of control"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 2,
+   "q": "Which one of the following is an example of a technology change within an organization?",
+   "o": [
+    "forming teams to complete tasks",
+    "workers using new software",
+    "workers wanting to telecommute",
+    "workers wanting flexible hours"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 3,
+   "q": "Which one of the following is an organizational \"people change?\"",
+   "o": [
+    "work methods that people use",
+    "authority relationships between people",
+    "attitudes that people have",
+    "job redesign"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 4,
+   "q": "Which one of the following is an organizational structure change?",
+   "o": [
+    "the building of a new workshop",
+    "resentment of bosses by employees",
+    "a new way to package chocolate cake",
+    "changing who reports to whom"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 5,
+   "q": "Which one of the following is an organizational technology change?",
+   "o": [
+    "purchase of a new backhoe",
+    "employees expecting a raise",
+    "employees accepting a new schedule",
+    "widening of span of control"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 6,
+   "q": "The Patient Protection and Affordable Care Act is an example of which one of the following forms of environmental change?",
+   "o": [
+    "internal",
+    "technology",
+    "government laws and regulations",
+    "labor markets"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 7,
+   "q": "Which one of the following is an internal force that can cause a company to make an organizational change?",
+   "o": [
+    "a new ad campaign",
+    "new safety requirements",
+    "a new rival company",
+    "new pollution laws"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 8,
+   "q": "Which one of the following is an external force that would cause a company to make an organizational change?",
+   "o": [
+    "an organization-wide restructuring",
+    "the naming of a new CEO",
+    "a widening span of control for managers",
+    "a booming economy"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 9,
+   "q": "To compete with rival company X, company Y changes its management structure. This is an example of ________.",
+   "o": [
+    "an internal change causing an external change",
+    "an internal change causing another internal change",
+    "an external change causing another external change",
+    "an external change causing an internal change"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 10,
+   "q": "After a thorough company-wide self-examination, company Y decides to set up work teams. This is an example of ________.",
+   "o": [
+    "an internal change causing an external change",
+    "an internal change causing another internal change",
+    "an external change causing another external change",
+    "an external change causing an internal change"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 11,
+   "q": "In organizations, people who act as catalysts and assume the responsibility for managing the change process are called ________.",
+   "o": [
+    "managers",
+    "change agents",
+    "change managers",
+    "nonmanagerial employees"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 12,
+   "q": "Outside consultants generally try to initiate ________ changes than internal managers.",
+   "o": [
+    "more drastic",
+    "less drastic",
+    "more cautious",
+    "fewer"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 13,
+   "q": "The \"calm waters\" metaphor envisions an organization as ________.",
+   "o": [
+    "a large ship on a roiling sea",
+    "a large ship on a calm sea",
+    "a small raft on a calm sea",
+    "a small raft on a roiling sea"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 14,
+   "q": "The \"white-water rapids\" metaphor envisions an organization as ________.",
+   "o": [
+    "a large ship on a roiling sea",
+    "a large ship on a calm sea",
+    "a small raft on a calm river",
+    "a small raft on a raging river"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 15,
+   "q": "The \"white-water rapids\" metaphor sees change as ________.",
+   "o": [
+    "an occasional occurrence",
+    "the natural state of things",
+    "an unpleasant interruption of the normal calm",
+    "something that must be eliminated"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 16,
+   "q": "The first step in Lewin's three-step description of the change process involves ________.",
+   "o": [
+    "freezing the new state",
+    "changing to a new state",
+    "unfreezing the status quo",
+    "changing to a new status quo"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 17,
+   "q": "The final step in Lewin's three-step description of the change process is ________.",
+   "o": [
+    "freezing the new state",
+    "unfreezing the status quo",
+    "changing to a new state",
+    "unfreezing the new state"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 18,
+   "q": "According to Lewin, which one of the following is a force that might overcome inertia and unfreeze the status quo?",
+   "o": [
+    "increase restraining forces",
+    "maintain restraining forces",
+    "decrease driving forces",
+    "increase driving forces"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 19,
+   "q": "According to Lewin, which one of the following is the objective of refreezing?",
+   "o": [
+    "to stabilize the new situation",
+    "to promote movement away from existing equilibrium",
+    "to eliminate the need for future change",
+    "to direct behavior away from the status quo"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 20,
+   "q": "According to Lewin, which one of the following is the best way to unfreeze the status quo?",
+   "o": [
+    "increase restraining forces",
+    "decrease restraining forces and increase driving forces",
+    "decrease driving forces",
+    "increase restraining forces and increase driving forces"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 21,
+   "q": "The goal in Lewin's \"calm waters\" metaphor is ________.",
+   "o": [
+    "to change the current equilibrium state",
+    "to reach a state of constant change",
+    "to eliminate the equilibrium state",
+    "to establish a new equilibrium state"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 22,
+   "q": "Today, Lewin's \"calm waters\" metaphor is increasingly thought to be ________.",
+   "o": [
+    "illogical",
+    "an apt description of the current situation",
+    "a blueprint for the future",
+    "obsolete"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 23,
+   "q": "Which phenomenon in today's business climate has made the \"white-water rapids\" metaphor popular?",
+   "o": [
+    "reduced competition",
+    "corporations that are too powerful",
+    "organizations that resist change",
+    "constant and chaotic change"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 24,
+   "q": "Writing laws to reward industries to reduce carbon emissions in an effort to combat global climate change can be best described as an example of which one of the following?",
+   "o": [
+    "unfreezing the status quo",
+    "freezing a change into place",
+    "implementing change",
+    "refreezing the status quo"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 25,
+   "q": "________ refers to the ability to combine ideas in a unique way or to make unusual associations between ideas.",
+   "o": [
+    "Innovation",
+    "Imagination",
+    "Creativity",
+    "Open-minded thinking"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 26,
+   "q": "________ is the process of taking a creative idea and turning it into something useful.",
+   "o": [
+    "Innovation",
+    "Imagination",
+    "Creativity",
+    "Inspiration"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 27,
+   "q": "Some people believe that creativity is ________, while others think that creativity ________.",
+   "o": [
+    "quickly and easily learned; is slowly learned",
+    "a genuine quality; does not really exist",
+    "inborn; can be learned",
+    "learned; is forgotten after childhood"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 28,
+   "q": "The first step in creativity involves ________.",
+   "o": [
+    "making something useful",
+    "seeing things from a unique perspective",
+    "putting ideas together",
+    "consolidating ideas"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 29,
+   "q": "Which one of the following steps in the creativity process may take years before the idea finally \"gels\" and the next step occurs?",
+   "o": [
+    "perception",
+    "incubation",
+    "inspiration",
+    "innovation"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 30,
+   "q": "The moment when all prior efforts in the creativity process successfully come together is known as ________.",
+   "o": [
+    "perception",
+    "incubation",
+    "inspiration",
+    "innovation"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 31,
+   "q": "Using the systems model, managers can promote innovation by having the right ________.",
+   "o": [
+    "people and inputs",
+    "people and environment",
+    "outputs and resources",
+    "mechanistic management structure"
+   ],
+   "a": "B",
+   "marked": "B",
+   "note": "On the sheet A is also marked, B is circled. Textbook: creative people/groups are the inputs, but having creative people isn't enough – it takes the right environment to turn inputs into innovative outputs → people and environment."
+  },
+  {
+   "n": 32,
+   "q": "________ variables are thought to promote innovation.",
+   "o": [
+    "Structural, cultural, and human resource",
+    "Organic, cultural, and tolerant",
+    "Structural, ambiguous, and tolerant",
+    "Cultural, ambiguous, and tolerant"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 33,
+   "q": "An innovative organization needs to tolerate ________ because creative ideas sometimes seem foolish at first.",
+   "o": [
+    "mismanagement",
+    "the impractical",
+    "conflict",
+    "inefficiency"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 34,
+   "q": "Managers who want creative and innovative employees should ________.",
+   "o": [
+    "not place much emphasis on goals",
+    "focus on means rather than ends",
+    "focus on ends rather than means",
+    "stress that there is only one path to a goal"
+   ],
+   "a": "C",
+   "marked": "C",
+   "note": "On the sheet B is also marked, C is circled. Innovative cultures focus on ends (goals) rather than means – there can be several paths to a goal."
+  },
+  {
+   "n": 35,
+   "q": "________ actively support innovation and every step of the process that leads to innovative ideas.",
+   "o": [
+    "Idea champions",
+    "Idea managers",
+    "All managers",
+    "Champion managers"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 36,
+   "q": "All of the following are common personality characteristics of idea champions EXCEPT ________.",
+   "o": [
+    "extremely high self-confidence",
+    "persistence",
+    "energy",
+    "risk aversion"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 37,
+   "q": "Samll community libraries are facing ________ from electronic devices such as Kindle and online reading services.",
+   "o": [
+    "continuous innovation",
+    "sustaining innovation",
+    "creative inspiration",
+    "disruptive innovation"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 38,
+   "q": "Majico, Inc., has a small team that works in a separate building on projects tangentially related to the company's main mission. They self-govern and have access to ample resources, most of it off-budget. They are free from the bureaucratic restraints placed on the \"official\" workforce. This team comprises a ________.",
+   "o": [
+    "badger team",
+    "skunk works",
+    "creative response team",
+    "sustaining innovation team"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 39,
+   "q": "A company's workers asking to be able to celebrate Mexican holidays is an example of ________ force for change.",
+   "o": [
+    "an external workforce composition",
+    "an internal workforce composition",
+    "an external tactic",
+    "an internal strategy"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 40,
+   "q": "Labor strikes are an example of what change factor that may encourage a change in management thinking and practices?",
+   "o": [
+    "workforce composition",
+    "equipment",
+    "employee attitude",
+    "strategy"
+   ],
+   "a": "C",
+   "marked": "C"
+  }
  ],
  "open": [
   "In a short essay, define and discuss creativity and innovation in the workplace.",

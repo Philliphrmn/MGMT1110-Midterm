@@ -2,50 +2,503 @@
  "chapter": 3,
  "title": "Navigating the New Rules of Business: Important Managerial Issues",
  "mc": [
-  {"n":1,"q":"Khalid, a buyer for a U.S. firm, is shopping the globe for components for use in his firm's products. He finds the best price at a Canadian company. When he buys them, he will be ________.","o":["franchising","offshoring","onshoring","nearshoring"],"a":"D","marked":"D"},
-  {"n":2,"q":"Which one of the following would NOT be called an \"American company\"?","o":["a multidomestic with a home base in Memphis, Tennessee","a global corporation that originated in Dallas, Texas and has operations in 12 countries","a transnational that originated in New York City with operations in six countries","a global corporation that began in Japan but has since relocated and now has its sole headquarters in Chicago"],"a":"C","marked":"C"},
-  {"n":3,"q":"Svetlana's supervisor wants to use goal-setting theory to motivate her, so he offered her a choice. One set of goals pays a small amount in three months; the second option pays ten times as much in three years. Svetlana chose the shorter timeframe because ________.","o":["her culture has a low performance orientation","her culture has a high performance orientation","her culture has a high future orientation","her culture has a low future orientation"],"a":"D","marked":"D"},
-  {"n":4,"q":"Those arguing against being socially responsible might make the claim that costs for social goals are ultimately ________.","o":["paid for by the people being helped","paid for by companies in the form of tax breaks","paid for by consumers in the form of higher prices","are never paid by anyone"],"a":"C","marked":null,"note":"Not marked on the sheet. Argument against social responsibility (\"costs\"): the costs of social actions are passed on to consumers as higher prices."},
-  {"n":5,"q":"When an organization engages in ________, it uses managerial and technical employee skills and abilities from other countries.","o":["talent globalization","marketplace globalization","financial globalization","resource globalization"],"a":"A","marked":"A"},
-  {"n":6,"q":"When a U.S. ship yard purchases raw materials from locations around the world, for example steel from China, this is called ________.","o":["licensing","a joint venture","global sourcing","a global alliance"],"a":"C","marked":"C"},
-  {"n":7,"q":"Which one of the following is NOT a key characteristic of a global organization?","o":["exchanges goods and services with consumers in other countries","employs high-level technical employees and managerial talent from other countries","uses resources from other countries","has a home country in which all decisions are made and into which all profits flow"],"a":"D","marked":"D"},
-  {"n":8,"q":"A multinational corporation (MNC) ________.","o":["is any organization that maintains operations in more than one country","is defined as a company that has its home base in the United States and various operations overseas","includes any company that exports goods overseas","is defined as any company that has no home base"],"a":"A","marked":"A"},
-  {"n":9,"q":"A global corporation ________.","o":["centralizes management in a single home country","decentralizes management so that each local country's operation is managed locally","decentralizes management so there is no single home location","has two main management locations located on different sides of the globe"],"a":"A","marked":"A"},
-  {"n":10,"q":"Which one of the following best characterizes a transnational corporation?","o":["a single central home-country management","an organization in which multiple operations function with a large degree of autonomy","a loose alliance of totally separate, wholly independent companies","a company that eliminates geographical boundaries"],"a":"D","marked":"D"},
-  {"n":11,"q":"Which choice constitutes the typical first step for an organization that is \"going global\"?","o":["outsourcing","franchising","licensing","strategic alliance"],"a":"A","marked":"A"},
-  {"n":12,"q":"Which one of the following is usually found in the final stage of an organization's global evolution?","o":["exporting products to other countries","outsourcing jobs to foreign countries","establishing strategic alliances with partners","licensing products in foreign countries"],"a":"C","marked":"C"},
-  {"n":13,"q":"A fully global organization might set up a ________ with a foreign company to create a new, independent company that produces a specific product.","o":["foreign subsidiary","franchise","licensing agreement","joint venture"],"a":"D","marked":"D"},
-  {"n":14,"q":"Of the approaches to pursuing international markets, developing a ________ involves the greatest commitment and risk.","o":["franchise","joint venture","strategic alliance","foreign subsidiary"],"a":"D","marked":"D"},
-  {"n":15,"scenario":"Business Expansion Plan","q":"If Shana's company decides to open operations in France but maintain company management in the United States, it would be considered a ________.","o":["transnational corporation","global corporation","multidomestic corporation","joint venture"],"a":"B","marked":"B"},
-  {"n":16,"scenario":"Business Expansion Plan","q":"If Shana's company decides to open a new operation in Germany that has local managers and is run locally but still exists under the umbrella of the home company, it would be considered a ________.","o":["national corporation","borderless organization","trade alliance","multidomestic corporation"],"a":"D","marked":"D"},
-  {"n":17,"scenario":"Business Expansion Plan","q":"If Shana's company reorganizes based on industry groups with no designated home country, the entire organization would be considered a ________.","o":["transnational organization","strategic alliance","multidomestic corporation","global corporation"],"a":"A","marked":"A"},
-  {"n":18,"scenario":"Business Expansion Plan","q":"Shana's company hopes to become a fully global corporation in the coming years. Which of the following would best indicate that the company is fully \"global\"?","o":["exporting and importing","licensing","setting up a foreign subsidiary","franchising"],"a":"C","marked":"C"},
-  {"n":19,"q":"Her Spanish supervisor was appalled when Mary, an American expatriate, boldly marched into his office in Barcelona to offer a suggestion to solve a production problem. Which one of the following best explains the supervisor's response?","o":["Mary did not understand gender differences related to the Spanish culture.","The supervisor was a very assertive person.","Spain ranks high in power distance.","Spain ranks low in uncertainty avoidance."],"a":"C","marked":"C"},
-  {"n":20,"q":"Tyrone was flabbergasted when Michiko burst into tears and ran from the room after he praised her work on the new product launch team. Apparently Tyrone has forgotten that ________.","o":["the Japanese, who rank high on collectivism, do not like being singled out for special attention","Michiko is a very shy person","Michiko has violated the gender differentiation values by working outside the home","praise is not a nurturing activity"],"a":"A","marked":"A"},
-  {"n":21,"q":"Gerhard read the report but asked for more information–repeatedly. His subordinates accuse him of paralysis by analysis. He wants to know the outcome before making any decision. We could reasonably say Gerhard is ________.","o":["low in uncertainty avoidance","high in achievement","low in assertiveness","high in uncertainty avoidance"],"a":"D","marked":"D"},
-  {"n":22,"q":"The most important thing in Lin Woo's life is his family. He is very proud of his children and their accomplishments. He declines to work weekends so he can spend time with them and with his parents. We might suspect Lin Woo is ________.","o":["low in in-group collectivism","high in in-group collectivism","high in individualism","low in achievement"],"a":"B","marked":"B"},
-  {"n":23,"q":"Since businesses have more power and resources than ordinary individuals, supporters of social responsibility claim that businesses have ________.","o":["a good reason to ignore the needs of ordinary individuals","no reason to act in a socially responsible way","more reason to act in a socially responsible way","less reason to act in a socially responsible way"],"a":"C","marked":"C"},
-  {"n":24,"q":"Most studies have shown that companies that engage in social involvement ________.","o":["receive a small positive benefit","receive an enormous positive benefit","experience a small negative effect","experience an enormous negative effect"],"a":"A","marked":"A"},
-  {"n":25,"q":"The argument against social responsibility states that pursuing goals other than making profits diverts a company away from its primary goal of making profits, a concept known as ________.","o":["possession of resources","too much power","lack of skills","dilution of purpose"],"a":"D","marked":"D"},
-  {"n":26,"q":"Which one of the following best defines sustainability for a company?","o":["running the company with a strategy that is both profitable and good for the environment","running the company with a strategy that is profitable whether or not it is good for the environment","running the company with a strategy that is good for the environment even if it is not profitable","running the company with a strategy that does not change the environment in any way"],"a":"A","marked":"A"},
-  {"n":27,"scenario":"Opposing Views of Social Responsibility","q":"Director Appleton exhibits which of the following social responsibility views?","o":["social responsiveness","broad view of social responsibility","classical view of social responsibility","socioeconomic view of social responsibility"],"a":"C","marked":"C"},
-  {"n":28,"scenario":"Opposing Views of Social Responsibility","q":"Director Estrella exhibits which of the following social responsibility views?","o":["social awareness","socioeconomic view of social responsibility","classical view of social responsibility","social obligation"],"a":"D","marked":"D","note":"On the sheet both B and D are circled. Estrella does only what the law requires (strictly following all laws while cutting corners) → social obligation."},
-  {"n":29,"scenario":"Opposing Views of Social Responsibility","q":"Director Jossleman is exhibiting which of the following social responsibility views?","o":["socioeconomic view of social responsibility","classical view of social responsibility","social obligation","no social obligation"],"a":"A","marked":"A"},
-  {"n":30,"scenario":"Opposing Views of Social Responsibility","q":"Suppose Director Jossleman proposes building a wildlife preserve near the wind farm for the local community. What is Josselman demonstrating in her proposal?","o":["social responsiveness","socioeconomic view of social responsibility","classical view of social responsibility","social awareness"],"a":"B","marked":"B"},
-  {"n":31,"q":"Stockholder demands for higher profits conflicts with union employees' demands for higher wages. Management is seriously considering moving production operations offshore to a country with lower wage rates and no unions, forcing American workers out of their jobs. This situation describes ________.","o":["a globalization opportunity","a socioeconomic problem","a social responsibility issue","an ethical dilemma"],"a":"D","marked":"D"},
-  {"n":32,"q":"Management has decided to move production operations offshore, a move that will cost 237 jobs in the United States. However, there is the potential to increase profits and dividends to the 984 stockholders. It would appear that management is following the ________ view of ethics.","o":["utilitarian","rights","theory of justice","socioeconomic"],"a":"A","marked":"A"},
-  {"n":33,"q":"Carl posted on social media a detailed account of his disagreement with a particular company policy where he works, even suggesting his readers boycott his company's products until the policy is changed. The CEO would like to fire him, but the HR manager advised against it even though she was unhappy about the comments. Which view of ethics is the HR manager following?","o":["utilitarian","rights","theory of justice","socioeconomic"],"a":"B","marked":"B"},
-  {"n":34,"q":"Ramona is the best worker in the group, but she has been tardy one too many times. Her supervisor knows the company policy is to suspend her for three days but she is needed on the line to get out the big order for the firm's best customer. He had no problem suspending Luca; he was rather lazy anyway. He just can't afford to lose Ramona's production for three days. Which view of ethics is the supervisor struggling with?","o":["utilitarian","rights","theory of justice","socioeconomic"],"a":"C","marked":"A/B","note":"CORRECTED: on the sheet A and B are both circled. The supervisor is struggling with enforcing the rule fairly and impartially for everyone (Luca was suspended, Ramona maybe not) – that is the theory of justice view. Utilitarian thinking (keep her production) is what tempts him, not what he struggles with. This one is debatable – please double-check with your instructor."},
-  {"n":35,"q":"Which one of the following is a basic definition of ethics?","o":["rules that define good and evil","laws that define legal and illegal","principles that define right and wrong","principles that define standards of decency"],"a":"C","marked":"C"},
-  {"n":36,"q":"A ________ is a formal document that states an organization's primary values and the ethical rules it expects its employees to follow.","o":["mission statement","statement of purpose","code of ethics","vision statement"],"a":"C","marked":"C"},
-  {"n":37,"q":"In most cases, organizations that have managers who behave ethically tend to have ________.","o":["more productive employees","more ethical employees","less ethical employees","employees who are no more or less ethical than average"],"a":"B","marked":"C","note":"CORRECTED: C (less ethical) is circled on the sheet – almost certainly a slip. Managers act as role models: ethical leaders lead to more ethical employees."},
-  {"n":38,"q":"A(n) ________ view of ethics states that more productive workers should get more pay and less productive workers less pay, regardless of other circumstances.","o":["rights","utilitarian","theory of justice","individual liberties"],"a":"B","marked":"B"},
-  {"n":39,"q":"A manager who subscribes to the theory of justice view of ethics might pay low-level employees ________.","o":["the minimum wage","more than the minimum wage","less than the minimum wage","according to how productive they were"],"a":"B","marked":"B"},
-  {"n":40,"q":"Which one of the following is most likely at the root of the problems that befell an unethical company like Enron?","o":["poor ethics training programs","no written code of ethics","leaders with such high ethical standards that ordinary people could not hope to live up to them","leaders with poor ethical standards"],"a":"D","marked":"D"}
+  {
+   "n": 1,
+   "q": "Khalid, a buyer for a U.S. firm, is shopping the globe for components for use in his firm's products. He finds the best price at a Canadian company. When he buys them, he will be ________.",
+   "o": [
+    "franchising",
+    "offshoring",
+    "onshoring",
+    "nearshoring"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 2,
+   "q": "Which one of the following would NOT be called an \"American company\"?",
+   "o": [
+    "a multidomestic with a home base in Memphis, Tennessee",
+    "a global corporation that originated in Dallas, Texas and has operations in 12 countries",
+    "a transnational that originated in New York City with operations in six countries",
+    "a global corporation that began in Japan but has since relocated and now has its sole headquarters in Chicago"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 3,
+   "q": "Svetlana's supervisor wants to use goal-setting theory to motivate her, so he offered her a choice. One set of goals pays a small amount in three months; the second option pays ten times as much in three years. Svetlana chose the shorter timeframe because ________.",
+   "o": [
+    "her culture has a low performance orientation",
+    "her culture has a high performance orientation",
+    "her culture has a high future orientation",
+    "her culture has a low future orientation"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 4,
+   "q": "Those arguing against being socially responsible might make the claim that costs for social goals are ultimately ________.",
+   "o": [
+    "paid for by the people being helped",
+    "paid for by companies in the form of tax breaks",
+    "paid for by consumers in the form of higher prices",
+    "are never paid by anyone"
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet. Argument against social responsibility (\"costs\"): the costs of social actions are passed on to consumers as higher prices."
+  },
+  {
+   "n": 5,
+   "q": "When an organization engages in ________, it uses managerial and technical employee skills and abilities from other countries.",
+   "o": [
+    "talent globalization",
+    "marketplace globalization",
+    "financial globalization",
+    "resource globalization"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 6,
+   "q": "When a U.S. ship yard purchases raw materials from locations around the world, for example steel from China, this is called ________.",
+   "o": [
+    "licensing",
+    "a joint venture",
+    "global sourcing",
+    "a global alliance"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 7,
+   "q": "Which one of the following is NOT a key characteristic of a global organization?",
+   "o": [
+    "exchanges goods and services with consumers in other countries",
+    "employs high-level technical employees and managerial talent from other countries",
+    "uses resources from other countries",
+    "has a home country in which all decisions are made and into which all profits flow"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 8,
+   "q": "A multinational corporation (MNC) ________.",
+   "o": [
+    "is any organization that maintains operations in more than one country",
+    "is defined as a company that has its home base in the United States and various operations overseas",
+    "includes any company that exports goods overseas",
+    "is defined as any company that has no home base"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 9,
+   "q": "A global corporation ________.",
+   "o": [
+    "centralizes management in a single home country",
+    "decentralizes management so that each local country's operation is managed locally",
+    "decentralizes management so there is no single home location",
+    "has two main management locations located on different sides of the globe"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 10,
+   "q": "Which one of the following best characterizes a transnational corporation?",
+   "o": [
+    "a single central home-country management",
+    "an organization in which multiple operations function with a large degree of autonomy",
+    "a loose alliance of totally separate, wholly independent companies",
+    "a company that eliminates geographical boundaries"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 11,
+   "q": "Which choice constitutes the typical first step for an organization that is \"going global\"?",
+   "o": [
+    "outsourcing",
+    "franchising",
+    "licensing",
+    "strategic alliance"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 12,
+   "q": "Which one of the following is usually found in the final stage of an organization's global evolution?",
+   "o": [
+    "exporting products to other countries",
+    "outsourcing jobs to foreign countries",
+    "establishing strategic alliances with partners",
+    "licensing products in foreign countries"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 13,
+   "q": "A fully global organization might set up a ________ with a foreign company to create a new, independent company that produces a specific product.",
+   "o": [
+    "foreign subsidiary",
+    "franchise",
+    "licensing agreement",
+    "joint venture"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 14,
+   "q": "Of the approaches to pursuing international markets, developing a ________ involves the greatest commitment and risk.",
+   "o": [
+    "franchise",
+    "joint venture",
+    "strategic alliance",
+    "foreign subsidiary"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 15,
+   "scenario": "Business Expansion Plan",
+   "q": "If Shana's company decides to open operations in France but maintain company management in the United States, it would be considered a ________.",
+   "o": [
+    "transnational corporation",
+    "global corporation",
+    "multidomestic corporation",
+    "joint venture"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 16,
+   "scenario": "Business Expansion Plan",
+   "q": "If Shana's company decides to open a new operation in Germany that has local managers and is run locally but still exists under the umbrella of the home company, it would be considered a ________.",
+   "o": [
+    "national corporation",
+    "borderless organization",
+    "trade alliance",
+    "multidomestic corporation"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 17,
+   "scenario": "Business Expansion Plan",
+   "q": "If Shana's company reorganizes based on industry groups with no designated home country, the entire organization would be considered a ________.",
+   "o": [
+    "transnational organization",
+    "strategic alliance",
+    "multidomestic corporation",
+    "global corporation"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 18,
+   "scenario": "Business Expansion Plan",
+   "q": "Shana's company hopes to become a fully global corporation in the coming years. Which of the following would best indicate that the company is fully \"global\"?",
+   "o": [
+    "exporting and importing",
+    "licensing",
+    "setting up a foreign subsidiary",
+    "franchising"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 19,
+   "q": "Her Spanish supervisor was appalled when Mary, an American expatriate, boldly marched into his office in Barcelona to offer a suggestion to solve a production problem. Which one of the following best explains the supervisor's response?",
+   "o": [
+    "Mary did not understand gender differences related to the Spanish culture.",
+    "The supervisor was a very assertive person.",
+    "Spain ranks high in power distance.",
+    "Spain ranks low in uncertainty avoidance."
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 20,
+   "q": "Tyrone was flabbergasted when Michiko burst into tears and ran from the room after he praised her work on the new product launch team. Apparently Tyrone has forgotten that ________.",
+   "o": [
+    "the Japanese, who rank high on collectivism, do not like being singled out for special attention",
+    "Michiko is a very shy person",
+    "Michiko has violated the gender differentiation values by working outside the home",
+    "praise is not a nurturing activity"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 21,
+   "q": "Gerhard read the report but asked for more information–repeatedly. His subordinates accuse him of paralysis by analysis. He wants to know the outcome before making any decision. We could reasonably say Gerhard is ________.",
+   "o": [
+    "low in uncertainty avoidance",
+    "high in achievement",
+    "low in assertiveness",
+    "high in uncertainty avoidance"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 22,
+   "q": "The most important thing in Lin Woo's life is his family. He is very proud of his children and their accomplishments. He declines to work weekends so he can spend time with them and with his parents. We might suspect Lin Woo is ________.",
+   "o": [
+    "low in in-group collectivism",
+    "high in in-group collectivism",
+    "high in individualism",
+    "low in achievement"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 23,
+   "q": "Since businesses have more power and resources than ordinary individuals, supporters of social responsibility claim that businesses have ________.",
+   "o": [
+    "a good reason to ignore the needs of ordinary individuals",
+    "no reason to act in a socially responsible way",
+    "more reason to act in a socially responsible way",
+    "less reason to act in a socially responsible way"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 24,
+   "q": "Most studies have shown that companies that engage in social involvement ________.",
+   "o": [
+    "receive a small positive benefit",
+    "receive an enormous positive benefit",
+    "experience a small negative effect",
+    "experience an enormous negative effect"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 25,
+   "q": "The argument against social responsibility states that pursuing goals other than making profits diverts a company away from its primary goal of making profits, a concept known as ________.",
+   "o": [
+    "possession of resources",
+    "too much power",
+    "lack of skills",
+    "dilution of purpose"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 26,
+   "q": "Which one of the following best defines sustainability for a company?",
+   "o": [
+    "running the company with a strategy that is both profitable and good for the environment",
+    "running the company with a strategy that is profitable whether or not it is good for the environment",
+    "running the company with a strategy that is good for the environment even if it is not profitable",
+    "running the company with a strategy that does not change the environment in any way"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 27,
+   "scenario": "Opposing Views of Social Responsibility",
+   "q": "Director Appleton exhibits which of the following social responsibility views?",
+   "o": [
+    "social responsiveness",
+    "broad view of social responsibility",
+    "classical view of social responsibility",
+    "socioeconomic view of social responsibility"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 28,
+   "scenario": "Opposing Views of Social Responsibility",
+   "q": "Director Estrella exhibits which of the following social responsibility views?",
+   "o": [
+    "social awareness",
+    "socioeconomic view of social responsibility",
+    "classical view of social responsibility",
+    "social obligation"
+   ],
+   "a": "D",
+   "marked": "D",
+   "note": "On the sheet both B and D are circled. Estrella does only what the law requires (strictly following all laws while cutting corners) → social obligation."
+  },
+  {
+   "n": 29,
+   "scenario": "Opposing Views of Social Responsibility",
+   "q": "Director Jossleman is exhibiting which of the following social responsibility views?",
+   "o": [
+    "socioeconomic view of social responsibility",
+    "classical view of social responsibility",
+    "social obligation",
+    "no social obligation"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 30,
+   "scenario": "Opposing Views of Social Responsibility",
+   "q": "Suppose Director Jossleman proposes building a wildlife preserve near the wind farm for the local community. What is Josselman demonstrating in her proposal?",
+   "o": [
+    "social responsiveness",
+    "socioeconomic view of social responsibility",
+    "classical view of social responsibility",
+    "social awareness"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 31,
+   "q": "Stockholder demands for higher profits conflicts with union employees' demands for higher wages. Management is seriously considering moving production operations offshore to a country with lower wage rates and no unions, forcing American workers out of their jobs. This situation describes ________.",
+   "o": [
+    "a globalization opportunity",
+    "a socioeconomic problem",
+    "a social responsibility issue",
+    "an ethical dilemma"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 32,
+   "q": "Management has decided to move production operations offshore, a move that will cost 237 jobs in the United States. However, there is the potential to increase profits and dividends to the 984 stockholders. It would appear that management is following the ________ view of ethics.",
+   "o": [
+    "utilitarian",
+    "rights",
+    "theory of justice",
+    "socioeconomic"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 33,
+   "q": "Carl posted on social media a detailed account of his disagreement with a particular company policy where he works, even suggesting his readers boycott his company's products until the policy is changed. The CEO would like to fire him, but the HR manager advised against it even though she was unhappy about the comments. Which view of ethics is the HR manager following?",
+   "o": [
+    "utilitarian",
+    "rights",
+    "theory of justice",
+    "socioeconomic"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 34,
+   "q": "Ramona is the best worker in the group, but she has been tardy one too many times. Her supervisor knows the company policy is to suspend her for three days but she is needed on the line to get out the big order for the firm's best customer. He had no problem suspending Luca; he was rather lazy anyway. He just can't afford to lose Ramona's production for three days. Which view of ethics is the supervisor struggling with?",
+   "o": [
+    "utilitarian",
+    "rights",
+    "theory of justice",
+    "socioeconomic"
+   ],
+   "a": "C",
+   "marked": "A/B",
+   "note": "CORRECTED: on the sheet A and B are both circled. The supervisor is struggling with enforcing the rule fairly and impartially for everyone (Luca was suspended, Ramona maybe not) – that is the theory of justice view. Utilitarian thinking (keep her production) is what tempts him, not what he struggles with. This one is debatable – please double-check with your instructor.",
+   "unsure": true
+  },
+  {
+   "n": 35,
+   "q": "Which one of the following is a basic definition of ethics?",
+   "o": [
+    "rules that define good and evil",
+    "laws that define legal and illegal",
+    "principles that define right and wrong",
+    "principles that define standards of decency"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 36,
+   "q": "A ________ is a formal document that states an organization's primary values and the ethical rules it expects its employees to follow.",
+   "o": [
+    "mission statement",
+    "statement of purpose",
+    "code of ethics",
+    "vision statement"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 37,
+   "q": "In most cases, organizations that have managers who behave ethically tend to have ________.",
+   "o": [
+    "more productive employees",
+    "more ethical employees",
+    "less ethical employees",
+    "employees who are no more or less ethical than average"
+   ],
+   "a": "B",
+   "marked": "C",
+   "note": "CORRECTED: C (less ethical) is circled on the sheet – almost certainly a slip. Managers act as role models: ethical leaders lead to more ethical employees."
+  },
+  {
+   "n": 38,
+   "q": "A(n) ________ view of ethics states that more productive workers should get more pay and less productive workers less pay, regardless of other circumstances.",
+   "o": [
+    "rights",
+    "utilitarian",
+    "theory of justice",
+    "individual liberties"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 39,
+   "q": "A manager who subscribes to the theory of justice view of ethics might pay low-level employees ________.",
+   "o": [
+    "the minimum wage",
+    "more than the minimum wage",
+    "less than the minimum wage",
+    "according to how productive they were"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 40,
+   "q": "Which one of the following is most likely at the root of the problems that befell an unethical company like Enron?",
+   "o": [
+    "poor ethics training programs",
+    "no written code of ethics",
+    "leaders with such high ethical standards that ordinary people could not hope to live up to them",
+    "leaders with poor ethical standards"
+   ],
+   "a": "D",
+   "marked": "D"
+  }
  ],
  "scenarios": {
-  "Business Expansion Plan":"As a business expansion director, Shana's goal is to scout potential locations for her company's planned expansion to other countries. There are many options, some of which include maintaining the business's head office in the United States. Other options send company representatives to foreign operations when necessary, or establishing separate operation facilities abroad and hiring locals as managers.",
-  "Opposing Views of Social Responsibility":"The board of directors of the Four Forks Generating Corporation is meeting to consider the construction of a new electrical generation facility near the Four Forks River. Director Appleton prefers a coal-burning plant because it promises to be the most profitable alternative. Over the short term at least, a coal plant will be by far the least expensive facility to build and operate. Coal is cheap and the considerable pollution from the plant won't affect anything within hundreds of miles from the plant.\n\nDirector Estrella wants a nuclear plant to be located 30 miles upriver from the biggest city in the area. Nuclear power is cleaner than coal. Completely safeguarding the community against accidents in the plant or the disposal of toxic waste could be very expensive. However, Estrella has discovered that the job can be done much more cheaply by cutting some corners—while still strictly following all laws—and creating some additional risk for the community.\n\nDirector Jossleman supports the most expensive option of the three—she wants a wind farm to be built along the banks of the river on top of a ridge. The wind turbines produce absolutely no pollution and pose no threat to the community or the environment. They are expensive to build and to operate at the current time because they require elaborate back-up systems to function when the wind isn't blowing."
+  "Business Expansion Plan": "As a business expansion director, Shana's goal is to scout potential locations for her company's planned expansion to other countries. There are many options, some of which include maintaining the business's head office in the United States. Other options send company representatives to foreign operations when necessary, or establishing separate operation facilities abroad and hiring locals as managers.",
+  "Opposing Views of Social Responsibility": "The board of directors of the Four Forks Generating Corporation is meeting to consider the construction of a new electrical generation facility near the Four Forks River. Director Appleton prefers a coal-burning plant because it promises to be the most profitable alternative. Over the short term at least, a coal plant will be by far the least expensive facility to build and operate. Coal is cheap and the considerable pollution from the plant won't affect anything within hundreds of miles from the plant.\n\nDirector Estrella wants a nuclear plant to be located 30 miles upriver from the biggest city in the area. Nuclear power is cleaner than coal. Completely safeguarding the community against accidents in the plant or the disposal of toxic waste could be very expensive. However, Estrella has discovered that the job can be done much more cheaply by cutting some corners—while still strictly following all laws—and creating some additional risk for the community.\n\nDirector Jossleman supports the most expensive option of the three—she wants a wind farm to be built along the banks of the river on top of a ridge. The wind turbines produce absolutely no pollution and pose no threat to the community or the environment. They are expensive to build and to operate at the current time because they require elaborate back-up systems to function when the wind isn't blowing."
  },
  "open": [
   "In a short essay, explain the differences between a multidomestic corporation, a global corporation, and a transnational corporation.",

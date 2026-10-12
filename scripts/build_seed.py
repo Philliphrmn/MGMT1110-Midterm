@@ -38,13 +38,13 @@ def main():
         for q in d["mc"]:
             rows.append(
                 f"({lit(f'c{c}-q{q['n']:02d}')}, {c}, {q['n']}, {lit(q.get('scenario'))}, {lit(q['q'])}, "
-                f"{jlit(q['o'])}, {lit(q['a'])}, {lit(q.get('marked'))}, {lit(q.get('note'))})"
+                f"{jlit(q['o'])}, {lit(q['a'])}, {lit(q.get('marked'))}, {lit(q.get('note'))}, {'true' if q.get('unsure') else 'false'})"
             )
         sql.append(
-            "insert into public.questions (id, chapter, num, scenario, question, options, answer, marked, note) values\n"
+            "insert into public.questions (id, chapter, num, scenario, question, options, answer, marked, note, unsure) values\n"
             + ",\n".join(rows)
             + "\non conflict (id) do update set scenario = excluded.scenario, question = excluded.question,"
-            " options = excluded.options, answer = excluded.answer, marked = excluded.marked, note = excluded.note;"
+            " options = excluded.options, answer = excluded.answer, marked = excluded.marked, note = excluded.note, unsure = excluded.unsure;"
         )
         model = answers.get(str(c), [])
         if d.get("open"):

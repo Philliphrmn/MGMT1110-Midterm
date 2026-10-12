@@ -2,46 +2,522 @@
  "chapter": 4,
  "title": "Managing in a Global Environment",
  "mc": [
-  {"n":1,"q":"What did the effect of a volcanic eruption in Iceland on the production of Nissans in a plant in Japan illustrate?","o":["how much organizations depend on their banks","how much organizations depend on their external environment","how much organizations depend on corporate culture","how much organizations depend on a strong brand image"],"a":"B","marked":"B"},
-  {"n":2,"q":"Which components of the external environment of the BMW plant in Spartanburg, South Carolina were disrupted by the volcanic eruption in Eyjafjallajökull, Iceland?","o":["the demographic and global components","the political and legal components","the economic and global components","the sociocultural and demographic components"],"a":"C","marked":"C"},
-  {"n":3,"q":"Which one of the following is not involved with the demographic component of an organization's external environment?","o":["values","gender","race","income"],"a":"A","marked":"A"},
-  {"n":4,"q":"Court rulings allowing gay marriage are an example of a change in which components of an organization's external environment?","o":["political/legal and technological","economic and demographic","sociocultural and global","sociocultural and political/legal"],"a":"D","marked":"D"},
-  {"n":5,"q":"Which one of the following has been identified as a significant risk to business leaders in the next decade?","o":["stagnation in technology","income disparity","declining birth rates","political instability"],"a":"B","marked":"B"},
-  {"n":6,"q":"The use of peer-to-peer services such as Uber is an example of this type of economy.","o":["capitalistic","socialistic","sharing","unplanned"],"a":"C","marked":"C"},
-  {"n":7,"q":"Which one of the following views of management would agree with the statement that managers should not be held accountable for changing global economic conditions?","o":["the geocentric view","the new-world order view","the demographic view","the symbolic view"],"a":"D","marked":null,"note":"Not marked on the sheet. Symbolic view: much of an organization's success or failure is due to external forces outside managers' control."},
-  {"n":8,"q":"Which view of management describes a situation in which managers are directly responsible for a company's success or failure?","o":["the structural view of management","the symbolic view of management","the omnipotent view of management","the realistic view of management"],"a":"C","marked":null,"note":"Not marked on the sheet. Omnipotent view: managers are directly responsible for an organization's success or failure."},
-  {"n":9,"q":"Which kind of company would be less likely to fire its CEO for poor performance?","o":["a company with a symbolic view of management","a company with a realistic view of management","a company with an external view of management","a company with an omnipotent view of management"],"a":"A","marked":null,"note":"Not marked on the sheet. In the symbolic view, poor results are blamed on external forces, not on the CEO."},
-  {"n":10,"q":"Experts predict that these two countries will be larger than the developed countries of the world by the year 2050.","o":["Mexico and China","India and China","China and South Africa","India and Mexico"],"a":"B","marked":"B","note":"On the sheet B is circled and C is partly marked. India and China → B."},
-  {"n":11,"q":"Which one of the following identifies the best illustration of the phrase \"demographics is destiny?\"","o":["India is experiencing explosive growth partly because its population is growing rapidly.","India is experiencing poverty because its population is growing rapidly.","The United States is experiencing slow growth partly because its population is growing rapidly.","The United States is experiencing healthy growth partly because its population is not growing and people are saving their resources."],"a":"A","marked":null,"note":"Not marked on the sheet. \"Demographics is destiny\": population size/characteristics drive economic outcomes – e.g. India's growth partly driven by a rapidly growing population."},
-  {"n":12,"q":"Which demographic do managers pay closest attention to with respect to large-scale trends in the business world?","o":["age","sex","employment status","geographic location"],"a":"A","marked":null,"note":"Not marked on the sheet. The textbook focuses on age cohorts (Baby Boomers, Gen X, Gen Y, Gen Z)."},
-  {"n":13,"q":"How are Gen Z workers likely to be different from previous generations?","o":["They require products that are Internet-enabled.","They require products that are completely generic and not at all customized to the individual.","They require products that are serious and meaningful rather than frivolous and fun.","They require products that are of much higher quality than those required by individuals in previous generations."],"a":"A","marked":null,"note":"Not marked on the sheet. Gen Z are digital natives who grew up with the Internet."},
-  {"n":14,"q":"Which generation is predicted to be the most diverse and multicultural of any generation in the United States?","o":["Baby Boomers","Generation X","Generation Y","Generation Z"],"a":"D","marked":"D"},
-  {"n":15,"scenario":"TJ Soft","q":"Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore feels that success depends on the decisions that he and Janice make in the near future with respect to personnel. If they hire the \"right\" people, Theodore thinks, the company will be successful. Which view of management does Theodore espouse?","o":["the symbolic view of management, because success rides on the decisions of the managers","the symbolic view of management, because success rides on external factors—whom Theodore and Janice hire from the outside world","the omnipotent view of management, because success rides on the skills of the workers","the omnipotent view of management, because success rides on the decisions of the managers"],"a":"D","marked":"D"},
-  {"n":16,"scenario":"TJ Soft","q":"Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Janice loves the company but feels that the economy is too slow to expect any kind of overwhelming success at this point in time. For now, Janice just wants the company to survive. In a few years the company perhaps can look forward to true success. Which view of management does Janice espouse?","o":["the omnipotent view of management, because success rides on external factors such as the economy","the symbolic view of management, because success rides on external factors such as the economy","the symbolic view of management, because success rides on internal factors such as the judgment of Theodore and Janice","the omnipotent view of management, because success rides on internal factors such as the judgment of Theodore and Janice"],"a":"B","marked":"B"},
-  {"n":17,"scenario":"TJ Soft","q":"Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just gotten wind from a highly reliable source that games involving animals and ecosystems are likely to be extremely \"hot\" in the coming year. Theodore is excited because TJ Soft has two games in development that fit the animal/eco niche perfectly. Which component of the external environment will affect TJ Soft the most in this situation?","o":["the demographic component","the political component","the sociocultural component","the global component"],"a":"C","marked":null,"note":"Not marked on the sheet. Changing tastes and trends in what people value = sociocultural component."},
-  {"n":18,"scenario":"TJ Soft","q":"Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just gotten wind from a highly reliable source that Congress is likely to take action in the coming year to ban violent games. TJ Soft has several games that could be considered violent. Which component of the external environment will affect TJ Soft the most in this situation?","o":["the political/legal component","the demographic component","the technological component","the economic component"],"a":"A","marked":null,"note":"Not marked on the sheet. Congress / laws = political/legal component."},
-  {"n":19,"q":"Why were the Baby Boomers so much more influential than other generations with respect to changing American tastes and culture?","o":["The Baby Boomers came after World War II when lifestyles were really changing.","The Baby Boomers were a much more coherent group than other generations.","The Baby Boomers were a much larger group than other generations.","The Baby Boomers were a much more free-spirited group than other generations."],"a":"C","marked":null,"note":"Not marked on the sheet. Their sheer size made them the dominant force."},
-  {"n":20,"scenario":"TJ Soft","q":"Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just gotten wind that engineers have developed a new computer system that works like the devices shown in the Steven Spielberg movie Minority Report in which users can control a sophisticated computer using their hands in midair. Janice sees this development as highly important to new games for TJ Soft. Which component of the external environment will affect TJ Soft the most in this situation?","o":["the global component","the sociocultural component","the economic component","the technological component"],"a":"D","marked":null,"note":"Not marked on the sheet. New computer system = technological component."},
-  {"n":21,"scenario":"TJ Soft","q":"Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just read an article that describes the explosion of computer games among young people in India using cell phones and simple computers. This generation in India has well over 300 million people in it, and if TJ Soft can capture just a tiny portion of that market it will be highly successful. Which component of the external environment will affect TJ Soft the most in this situation?","o":["the technological component","the demographic component","the political component","the legal component"],"a":"B","marked":null,"note":"Not marked on the sheet. Size and age of a population group (a generation of 300 million) = demographic component."},
-  {"n":22,"scenario":"TJ Soft","q":"Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just read an article that says that the low interest rates that currently prevail are likely to end in the coming months. Theodore thinks that TJ Soft may need to apply for a loan now to avoid high costs later. Which component of the external environment will affect TJ Soft the most in this situation?","o":["the global component","the sociocultural component","the economic component","the technological component"],"a":"C","marked":null,"note":"Not marked on the sheet. Interest rates = economic component."},
-  {"n":23,"q":"Apple, which lives and breathes new product development, emphasizes which dimension of organizational culture?","o":["member identity","innovation","people focus","conflict tolerance"],"a":"B","marked":null,"note":"Not marked on the sheet."},
-  {"n":24,"q":"All of the following show why corporate rituals can be valuable in a corporate culture EXCEPT ________.","o":["rituals help initiate new employees into the culture","rituals reinforce corporate values","rituals symbolize key ideas that are important in the culture","rituals intimidate and silence critics of the corporate culture"],"a":"D","marked":null,"note":"Not marked on the sheet."},
-  {"n":25,"q":"Art Fry of 3M developed a weak glue that was not permanent when applied to surfaces, but he had no application for it–until he saw the choir director using small pieces of paper to mark pages in the hymnal and watched as those papers fell out. After applying his glue to small squares of paper, he solved the choir director's problem and created Post-It Notes® What is the implicit message in a story like the tale of the Post-it® note and Art Fry?","o":["Your problems are not as difficult as the problems that Art Fry faced so you shouldn't complain.","You can solve your problems in novel and creative ways just like Art Fry.","Your problems are much harder than the problems that Art Fry faced, but the tools you have to solve them are much better.","Your problems are not like the problems that Art Fry faced so you can't solve them in the same way."],"a":"B","marked":null,"note":"Not marked on the sheet."},
-  {"n":26,"q":"How is a corporate ritual different from a corporate story or legend?","o":["A ritual does not attempt to teach a specific lesson while a story or legend does.","A story or legend does not attempt to teach a specific lesson while a ritual does.","A ritual is not to be taken seriously while a story or legend is.","A story or legend is not to be taken seriously while a ritual is."],"a":"A","marked":null,"note":"Not marked on the sheet. Stories teach a lesson (narratives of significant events); rituals are repetitive activities that express and reinforce values."},
-  {"n":27,"q":"Organizational culture affects managers in two main ways: 1) its effect on what employees do and how they behave and 2) ________.","o":["the benefits and rewards established by the founder","its effect on organizational structure","its effect on what managers do","the communication pattern between organizational members"],"a":"C","marked":null,"note":"Not marked on the sheet."},
-  {"n":28,"q":"When rating how deeply held values are within an organization, culture is ranked from ________ to ________.","o":["strong; weak","long-term; short-term","deep; shallow","static; dynamic"],"a":"A","marked":null,"note":"Not marked on the sheet."},
-  {"n":29,"q":"Which one of the following most accurately reflects the difference between strong cultures and weak cultures?","o":["Strong cultures tend to encourage employee innovation, while weak cultures do not.","Weak cultures are found in most successful organizations, whereas strong cultures are relatively rare.","Strong cultures have less of an influence on employee behavior than do weak cultures.","Company values are more deeply held and widely shared in strong cultures than in weak cultures."],"a":"D","marked":null,"note":"Not marked on the sheet. Strong cultures = key values deeply held and widely shared."},
-  {"n":30,"q":"What determines whether an organization has a strong culture or a weak culture?","o":["how much employees are compensated for their efforts and whether they think their compensation is fair","how much employees accept the organization's key values and are committed to those values","whether or not employees feel that the organization is ethical","how fairly employees feel that they are being treated"],"a":"B","marked":"B"},
-  {"n":31,"q":"Which kind of culture most affects the way managers plan?","o":["A weak organizational culture gives managers the freedom to make their own decisions.","A strong organizational culture gives managers the freedom to make their own decisions independent of organizational values.","A strong organizational culture helps guide the way managers plan.","A weak organizational culture helps guide the way managers plan."],"a":"C","marked":null,"note":"Not marked on the sheet."},
-  {"n":32,"q":"Which one of the following statements about organizational culture is correct?","o":["An organization with a weak culture would need fewer written rules and regulations to conduct business than a strong culture.","An organization with a strong culture would need more written rules and regulations to conduct business than a weak culture.","An organization with a strong culture would need fewer written rules and regulations to conduct business than a weak culture.","Both weak and strong organizational cultures need as many written rules and regulations to conduct business as possible."],"a":"C","marked":null,"note":"Not marked on the sheet. A strong culture substitutes for formal rules."},
-  {"n":33,"q":"Which kind of organizational culture do the following values describe?\n1. Don't be lazy or sloppy.\n2. It's better to try a good idea and fail than to stick with a bad idea.\n3. When you think your product is perfect, go back and try to make it better.","o":["a company that values innovation more than quality","an innovative, risk-taking company that has high standards","a company that values quality more than innovation","a conservative, risk-averse company that has high standards"],"a":"B","marked":null,"note":"Not marked on the sheet."},
-  {"n":34,"q":"Which one of the following will a \"ready-aim-fire\" culture tend to do with plans for building a new factory?","o":["carefully study the plans before building","get the building process underway before the plans are finished in order to avoid possible objections to expansion","briefly study the plans before building","carry out the planning and building process simultaneously to make sure that the plans are updated continuously"],"a":"A","marked":null,"note":"Not marked on the sheet. \"Ready-aim-fire\" = analyze extensively before committing (vs. \"ready-fire-aim\" = act first, adjust later)."},
-  {"n":35,"q":"Which company would be best suited to a \"ready-aim-fire\" culture?","o":["a chocolate bar company that has made the same successful products for decades","a pharmaceutical company that is searching for a new way to prevent obesity","a cell phone company that is seeking to gain market share","a camera company that is worried that cell phones are taking over its business"],"a":"A","marked":"A"},
-  {"n":36,"q":"Which company would be best suited to a \"ready-fire-aim\" culture?","o":["a chocolate bar company that has made the same successful products for decades","a pharmaceutical company that is searching for a new way to prevent obesity","a cell phone company that is seeking to gain market share","a camera company that is worried that cell phones are taking over its business"],"a":"C","marked":null,"note":"Not marked on the sheet. A fast-moving, highly competitive market (fighting for market share) rewards acting quickly and adjusting later. Somewhat debatable – please double-check with your instructor."},
-  {"n":37,"q":"Which managerial planning decision is most affected by organizational culture?","o":["the degree of risk that plans contain","how much autonomy employees should have","how to implement the best leadership styles","how much to empower employees"],"a":"A","marked":"B","note":"CORRECTED: B is circled on the sheet. In the textbook table \"Managerial decisions affected by culture\", the degree of risk that plans should contain is listed under PLANNING; how much autonomy to design into jobs is listed under ORGANIZING. The question asks about a planning decision → A."},
-  {"n":38,"q":"Which one of the following statements exemplifies a culture that is supportive of innovation?","o":["Employees must obtain approval before taking any action.","Employees are allowed to independently define their work.","Managers select employees for problem-solving teams.","Production output supersedes quality."],"a":"B","marked":null,"note":"Not marked on the sheet. Freedom/autonomy supports innovation."},
-  {"n":39,"q":"Which one of the following management actions is most likely to create a culture of sustainability?","o":["Hold daily production meetings emphasizing quantities shipped.","Share customer product complaints with employees.","Hire a paper shredding company to remove recyclables.","Involve employees in finding ways to eliminate waste in the production process."],"a":"D","marked":"D"},
-  {"n":40,"q":"Which one of the following statements best describes an ethical culture?","o":["Raoul takes his friends out to dinner, asks if any of them has ever heard of his company's products, and claims the cost of the dinner on his sales expense report.","Patel is afraid to report his co-worker's behavior for fear of reprisal.","Lovee double-checks her reimbursement request to make sure only business-related expenses are included.","Ahmed under-reports the defects of his production line so he can earn his quality bonus this month."],"a":"C","marked":null,"note":"Not marked on the sheet."}
+  {
+   "n": 1,
+   "q": "What did the effect of a volcanic eruption in Iceland on the production of Nissans in a plant in Japan illustrate?",
+   "o": [
+    "how much organizations depend on their banks",
+    "how much organizations depend on their external environment",
+    "how much organizations depend on corporate culture",
+    "how much organizations depend on a strong brand image"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 2,
+   "q": "Which components of the external environment of the BMW plant in Spartanburg, South Carolina were disrupted by the volcanic eruption in Eyjafjallajökull, Iceland?",
+   "o": [
+    "the demographic and global components",
+    "the political and legal components",
+    "the economic and global components",
+    "the sociocultural and demographic components"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 3,
+   "q": "Which one of the following is not involved with the demographic component of an organization's external environment?",
+   "o": [
+    "values",
+    "gender",
+    "race",
+    "income"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 4,
+   "q": "Court rulings allowing gay marriage are an example of a change in which components of an organization's external environment?",
+   "o": [
+    "political/legal and technological",
+    "economic and demographic",
+    "sociocultural and global",
+    "sociocultural and political/legal"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 5,
+   "q": "Which one of the following has been identified as a significant risk to business leaders in the next decade?",
+   "o": [
+    "stagnation in technology",
+    "income disparity",
+    "declining birth rates",
+    "political instability"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 6,
+   "q": "The use of peer-to-peer services such as Uber is an example of this type of economy.",
+   "o": [
+    "capitalistic",
+    "socialistic",
+    "sharing",
+    "unplanned"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 7,
+   "q": "Which one of the following views of management would agree with the statement that managers should not be held accountable for changing global economic conditions?",
+   "o": [
+    "the geocentric view",
+    "the new-world order view",
+    "the demographic view",
+    "the symbolic view"
+   ],
+   "a": "D",
+   "marked": null,
+   "note": "Not marked on the sheet. Symbolic view: much of an organization's success or failure is due to external forces outside managers' control."
+  },
+  {
+   "n": 8,
+   "q": "Which view of management describes a situation in which managers are directly responsible for a company's success or failure?",
+   "o": [
+    "the structural view of management",
+    "the symbolic view of management",
+    "the omnipotent view of management",
+    "the realistic view of management"
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet. Omnipotent view: managers are directly responsible for an organization's success or failure."
+  },
+  {
+   "n": 9,
+   "q": "Which kind of company would be less likely to fire its CEO for poor performance?",
+   "o": [
+    "a company with a symbolic view of management",
+    "a company with a realistic view of management",
+    "a company with an external view of management",
+    "a company with an omnipotent view of management"
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet. In the symbolic view, poor results are blamed on external forces, not on the CEO."
+  },
+  {
+   "n": 10,
+   "q": "Experts predict that these two countries will be larger than the developed countries of the world by the year 2050.",
+   "o": [
+    "Mexico and China",
+    "India and China",
+    "China and South Africa",
+    "India and Mexico"
+   ],
+   "a": "B",
+   "marked": "B",
+   "note": "On the sheet B is circled and C is partly marked. India and China → B."
+  },
+  {
+   "n": 11,
+   "q": "Which one of the following identifies the best illustration of the phrase \"demographics is destiny?\"",
+   "o": [
+    "India is experiencing explosive growth partly because its population is growing rapidly.",
+    "India is experiencing poverty because its population is growing rapidly.",
+    "The United States is experiencing slow growth partly because its population is growing rapidly.",
+    "The United States is experiencing healthy growth partly because its population is not growing and people are saving their resources."
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet. \"Demographics is destiny\": population size/characteristics drive economic outcomes – e.g. India's growth partly driven by a rapidly growing population."
+  },
+  {
+   "n": 12,
+   "q": "Which demographic do managers pay closest attention to with respect to large-scale trends in the business world?",
+   "o": [
+    "age",
+    "sex",
+    "employment status",
+    "geographic location"
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet. The textbook focuses on age cohorts (Baby Boomers, Gen X, Gen Y, Gen Z)."
+  },
+  {
+   "n": 13,
+   "q": "How are Gen Z workers likely to be different from previous generations?",
+   "o": [
+    "They require products that are Internet-enabled.",
+    "They require products that are completely generic and not at all customized to the individual.",
+    "They require products that are serious and meaningful rather than frivolous and fun.",
+    "They require products that are of much higher quality than those required by individuals in previous generations."
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet. Gen Z are digital natives who grew up with the Internet."
+  },
+  {
+   "n": 14,
+   "q": "Which generation is predicted to be the most diverse and multicultural of any generation in the United States?",
+   "o": [
+    "Baby Boomers",
+    "Generation X",
+    "Generation Y",
+    "Generation Z"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 15,
+   "scenario": "TJ Soft",
+   "q": "Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore feels that success depends on the decisions that he and Janice make in the near future with respect to personnel. If they hire the \"right\" people, Theodore thinks, the company will be successful. Which view of management does Theodore espouse?",
+   "o": [
+    "the symbolic view of management, because success rides on the decisions of the managers",
+    "the symbolic view of management, because success rides on external factors—whom Theodore and Janice hire from the outside world",
+    "the omnipotent view of management, because success rides on the skills of the workers",
+    "the omnipotent view of management, because success rides on the decisions of the managers"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 16,
+   "scenario": "TJ Soft",
+   "q": "Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Janice loves the company but feels that the economy is too slow to expect any kind of overwhelming success at this point in time. For now, Janice just wants the company to survive. In a few years the company perhaps can look forward to true success. Which view of management does Janice espouse?",
+   "o": [
+    "the omnipotent view of management, because success rides on external factors such as the economy",
+    "the symbolic view of management, because success rides on external factors such as the economy",
+    "the symbolic view of management, because success rides on internal factors such as the judgment of Theodore and Janice",
+    "the omnipotent view of management, because success rides on internal factors such as the judgment of Theodore and Janice"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 17,
+   "scenario": "TJ Soft",
+   "q": "Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just gotten wind from a highly reliable source that games involving animals and ecosystems are likely to be extremely \"hot\" in the coming year. Theodore is excited because TJ Soft has two games in development that fit the animal/eco niche perfectly. Which component of the external environment will affect TJ Soft the most in this situation?",
+   "o": [
+    "the demographic component",
+    "the political component",
+    "the sociocultural component",
+    "the global component"
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet. Changing tastes and trends in what people value = sociocultural component."
+  },
+  {
+   "n": 18,
+   "scenario": "TJ Soft",
+   "q": "Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just gotten wind from a highly reliable source that Congress is likely to take action in the coming year to ban violent games. TJ Soft has several games that could be considered violent. Which component of the external environment will affect TJ Soft the most in this situation?",
+   "o": [
+    "the political/legal component",
+    "the demographic component",
+    "the technological component",
+    "the economic component"
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet. Congress / laws = political/legal component."
+  },
+  {
+   "n": 19,
+   "q": "Why were the Baby Boomers so much more influential than other generations with respect to changing American tastes and culture?",
+   "o": [
+    "The Baby Boomers came after World War II when lifestyles were really changing.",
+    "The Baby Boomers were a much more coherent group than other generations.",
+    "The Baby Boomers were a much larger group than other generations.",
+    "The Baby Boomers were a much more free-spirited group than other generations."
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet. Their sheer size made them the dominant force."
+  },
+  {
+   "n": 20,
+   "scenario": "TJ Soft",
+   "q": "Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just gotten wind that engineers have developed a new computer system that works like the devices shown in the Steven Spielberg movie Minority Report in which users can control a sophisticated computer using their hands in midair. Janice sees this development as highly important to new games for TJ Soft. Which component of the external environment will affect TJ Soft the most in this situation?",
+   "o": [
+    "the global component",
+    "the sociocultural component",
+    "the economic component",
+    "the technological component"
+   ],
+   "a": "D",
+   "marked": null,
+   "note": "Not marked on the sheet. New computer system = technological component."
+  },
+  {
+   "n": 21,
+   "scenario": "TJ Soft",
+   "q": "Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just read an article that describes the explosion of computer games among young people in India using cell phones and simple computers. This generation in India has well over 300 million people in it, and if TJ Soft can capture just a tiny portion of that market it will be highly successful. Which component of the external environment will affect TJ Soft the most in this situation?",
+   "o": [
+    "the technological component",
+    "the demographic component",
+    "the political component",
+    "the legal component"
+   ],
+   "a": "B",
+   "marked": null,
+   "note": "Not marked on the sheet. Size and age of a population group (a generation of 300 million) = demographic component."
+  },
+  {
+   "n": 22,
+   "scenario": "TJ Soft",
+   "q": "Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just read an article that says that the low interest rates that currently prevail are likely to end in the coming months. Theodore thinks that TJ Soft may need to apply for a loan now to avoid high costs later. Which component of the external environment will affect TJ Soft the most in this situation?",
+   "o": [
+    "the global component",
+    "the sociocultural component",
+    "the economic component",
+    "the technological component"
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet. Interest rates = economic component."
+  },
+  {
+   "n": 23,
+   "q": "Apple, which lives and breathes new product development, emphasizes which dimension of organizational culture?",
+   "o": [
+    "member identity",
+    "innovation",
+    "people focus",
+    "conflict tolerance"
+   ],
+   "a": "B",
+   "marked": null,
+   "note": "Not marked on the sheet."
+  },
+  {
+   "n": 24,
+   "q": "All of the following show why corporate rituals can be valuable in a corporate culture EXCEPT ________.",
+   "o": [
+    "rituals help initiate new employees into the culture",
+    "rituals reinforce corporate values",
+    "rituals symbolize key ideas that are important in the culture",
+    "rituals intimidate and silence critics of the corporate culture"
+   ],
+   "a": "D",
+   "marked": null,
+   "note": "Not marked on the sheet."
+  },
+  {
+   "n": 25,
+   "q": "Art Fry of 3M developed a weak glue that was not permanent when applied to surfaces, but he had no application for it–until he saw the choir director using small pieces of paper to mark pages in the hymnal and watched as those papers fell out. After applying his glue to small squares of paper, he solved the choir director's problem and created Post-It Notes® What is the implicit message in a story like the tale of the Post-it® note and Art Fry?",
+   "o": [
+    "Your problems are not as difficult as the problems that Art Fry faced so you shouldn't complain.",
+    "You can solve your problems in novel and creative ways just like Art Fry.",
+    "Your problems are much harder than the problems that Art Fry faced, but the tools you have to solve them are much better.",
+    "Your problems are not like the problems that Art Fry faced so you can't solve them in the same way."
+   ],
+   "a": "B",
+   "marked": null,
+   "note": "Not marked on the sheet."
+  },
+  {
+   "n": 26,
+   "q": "How is a corporate ritual different from a corporate story or legend?",
+   "o": [
+    "A ritual does not attempt to teach a specific lesson while a story or legend does.",
+    "A story or legend does not attempt to teach a specific lesson while a ritual does.",
+    "A ritual is not to be taken seriously while a story or legend is.",
+    "A story or legend is not to be taken seriously while a ritual is."
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet. Stories teach a lesson (narratives of significant events); rituals are repetitive activities that express and reinforce values."
+  },
+  {
+   "n": 27,
+   "q": "Organizational culture affects managers in two main ways: 1) its effect on what employees do and how they behave and 2) ________.",
+   "o": [
+    "the benefits and rewards established by the founder",
+    "its effect on organizational structure",
+    "its effect on what managers do",
+    "the communication pattern between organizational members"
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet."
+  },
+  {
+   "n": 28,
+   "q": "When rating how deeply held values are within an organization, culture is ranked from ________ to ________.",
+   "o": [
+    "strong; weak",
+    "long-term; short-term",
+    "deep; shallow",
+    "static; dynamic"
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet."
+  },
+  {
+   "n": 29,
+   "q": "Which one of the following most accurately reflects the difference between strong cultures and weak cultures?",
+   "o": [
+    "Strong cultures tend to encourage employee innovation, while weak cultures do not.",
+    "Weak cultures are found in most successful organizations, whereas strong cultures are relatively rare.",
+    "Strong cultures have less of an influence on employee behavior than do weak cultures.",
+    "Company values are more deeply held and widely shared in strong cultures than in weak cultures."
+   ],
+   "a": "D",
+   "marked": null,
+   "note": "Not marked on the sheet. Strong cultures = key values deeply held and widely shared."
+  },
+  {
+   "n": 30,
+   "q": "What determines whether an organization has a strong culture or a weak culture?",
+   "o": [
+    "how much employees are compensated for their efforts and whether they think their compensation is fair",
+    "how much employees accept the organization's key values and are committed to those values",
+    "whether or not employees feel that the organization is ethical",
+    "how fairly employees feel that they are being treated"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 31,
+   "q": "Which kind of culture most affects the way managers plan?",
+   "o": [
+    "A weak organizational culture gives managers the freedom to make their own decisions.",
+    "A strong organizational culture gives managers the freedom to make their own decisions independent of organizational values.",
+    "A strong organizational culture helps guide the way managers plan.",
+    "A weak organizational culture helps guide the way managers plan."
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet."
+  },
+  {
+   "n": 32,
+   "q": "Which one of the following statements about organizational culture is correct?",
+   "o": [
+    "An organization with a weak culture would need fewer written rules and regulations to conduct business than a strong culture.",
+    "An organization with a strong culture would need more written rules and regulations to conduct business than a weak culture.",
+    "An organization with a strong culture would need fewer written rules and regulations to conduct business than a weak culture.",
+    "Both weak and strong organizational cultures need as many written rules and regulations to conduct business as possible."
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet. A strong culture substitutes for formal rules."
+  },
+  {
+   "n": 33,
+   "q": "Which kind of organizational culture do the following values describe?\n1. Don't be lazy or sloppy.\n2. It's better to try a good idea and fail than to stick with a bad idea.\n3. When you think your product is perfect, go back and try to make it better.",
+   "o": [
+    "a company that values innovation more than quality",
+    "an innovative, risk-taking company that has high standards",
+    "a company that values quality more than innovation",
+    "a conservative, risk-averse company that has high standards"
+   ],
+   "a": "B",
+   "marked": null,
+   "note": "Not marked on the sheet."
+  },
+  {
+   "n": 34,
+   "q": "Which one of the following will a \"ready-aim-fire\" culture tend to do with plans for building a new factory?",
+   "o": [
+    "carefully study the plans before building",
+    "get the building process underway before the plans are finished in order to avoid possible objections to expansion",
+    "briefly study the plans before building",
+    "carry out the planning and building process simultaneously to make sure that the plans are updated continuously"
+   ],
+   "a": "A",
+   "marked": null,
+   "note": "Not marked on the sheet. \"Ready-aim-fire\" = analyze extensively before committing (vs. \"ready-fire-aim\" = act first, adjust later)."
+  },
+  {
+   "n": 35,
+   "q": "Which company would be best suited to a \"ready-aim-fire\" culture?",
+   "o": [
+    "a chocolate bar company that has made the same successful products for decades",
+    "a pharmaceutical company that is searching for a new way to prevent obesity",
+    "a cell phone company that is seeking to gain market share",
+    "a camera company that is worried that cell phones are taking over its business"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 36,
+   "q": "Which company would be best suited to a \"ready-fire-aim\" culture?",
+   "o": [
+    "a chocolate bar company that has made the same successful products for decades",
+    "a pharmaceutical company that is searching for a new way to prevent obesity",
+    "a cell phone company that is seeking to gain market share",
+    "a camera company that is worried that cell phones are taking over its business"
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet. A fast-moving, highly competitive market (fighting for market share) rewards acting quickly and adjusting later. Somewhat debatable – please double-check with your instructor.",
+   "unsure": true
+  },
+  {
+   "n": 37,
+   "q": "Which managerial planning decision is most affected by organizational culture?",
+   "o": [
+    "the degree of risk that plans contain",
+    "how much autonomy employees should have",
+    "how to implement the best leadership styles",
+    "how much to empower employees"
+   ],
+   "a": "A",
+   "marked": "B",
+   "note": "CORRECTED: B is circled on the sheet. In the textbook table \"Managerial decisions affected by culture\", the degree of risk that plans should contain is listed under PLANNING; how much autonomy to design into jobs is listed under ORGANIZING. The question asks about a planning decision → A."
+  },
+  {
+   "n": 38,
+   "q": "Which one of the following statements exemplifies a culture that is supportive of innovation?",
+   "o": [
+    "Employees must obtain approval before taking any action.",
+    "Employees are allowed to independently define their work.",
+    "Managers select employees for problem-solving teams.",
+    "Production output supersedes quality."
+   ],
+   "a": "B",
+   "marked": null,
+   "note": "Not marked on the sheet. Freedom/autonomy supports innovation."
+  },
+  {
+   "n": 39,
+   "q": "Which one of the following management actions is most likely to create a culture of sustainability?",
+   "o": [
+    "Hold daily production meetings emphasizing quantities shipped.",
+    "Share customer product complaints with employees.",
+    "Hire a paper shredding company to remove recyclables.",
+    "Involve employees in finding ways to eliminate waste in the production process."
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 40,
+   "q": "Which one of the following statements best describes an ethical culture?",
+   "o": [
+    "Raoul takes his friends out to dinner, asks if any of them has ever heard of his company's products, and claims the cost of the dinner on his sales expense report.",
+    "Patel is afraid to report his co-worker's behavior for fear of reprisal.",
+    "Lovee double-checks her reimbursement request to make sure only business-related expenses are included.",
+    "Ahmed under-reports the defects of his production line so he can earn his quality bonus this month."
+   ],
+   "a": "C",
+   "marked": null,
+   "note": "Not marked on the sheet."
+  }
  ],
  "open": [
   "In a short essay, describe the difference between a strong and a weak organizational culture and how both affect organizational behavior."
