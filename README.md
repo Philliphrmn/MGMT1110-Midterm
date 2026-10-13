@@ -37,3 +37,7 @@ npm run dev
 ```
 
 `VITE_SUPABASE_URL` / `VITE_SUPABASE_PUBLISHABLE_KEY` can override the built-in (publishable) project values.
+
+## Deployment
+
+Pushes to `main` deploy automatically to https://mgmt-1110-midterm.vercel.app (Vercel Hobby only builds commits authored by the project owner's GitHub account).
