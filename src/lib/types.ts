@@ -22,10 +22,11 @@ export interface Question {
 
 export interface OpenQuestion {
   id: string;
-  chapter: number;
+  chapter: number | null; // null = Part C reflection question
   num: number;
   question: string;
   model_answer: string;
+  part: "B" | "C";
 }
 
 export interface CardState {

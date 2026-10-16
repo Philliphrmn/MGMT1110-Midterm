@@ -39,7 +39,7 @@ function Shell({ email }: { email: string }) {
     { key: "", label: "Home" },
     { key: "study", label: "Learn", href: "/study/all" },
     { key: "test", label: "Test" },
-    { key: "open", label: "Open-ended", href: "/open/all" },
+    { key: "open", label: "Open-ended", href: "/open/exam" },
     { key: "browse", label: "Catalog", href: "/browse/all" },
   ];
 
@@ -57,7 +57,7 @@ function Shell({ email }: { email: string }) {
   else if (section === "browse") page = <BrowsePage scope={arg ?? "all"} />;
   else if (section === "test" && arg === "history") page = <TestHistoryPage openId={sub} />;
   else if (section === "test") page = <TestPage />;
-  else if (section === "open") page = <OpenPage scope={arg ?? "all"} />;
+  else if (section === "open") page = <OpenPage key={`o-${arg}`} scope={arg ?? "all"} />;
   else page = <HomePage />;
 
   return (

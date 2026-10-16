@@ -66,5 +66,25 @@ So studying management is useful for future managers and non-managers alike.'),
 • Social media and online reviews mean one bad experience can quickly reach thousands of potential customers, while loyal, satisfied customers spread positive word of mouth.
 • Loyal customers are cheaper to keep than new ones are to win, and a loyal customer base helps well-managed companies prosper even in difficult economic times.
 
-Therefore managers must create a customer-responsive organization where employees are friendly, courteous, knowledgeable and responsive to customer needs.')
+Therefore managers must create a customer-responsive organization where employees are friendly, courteous, knowledgeable and responsive to customer needs.'),
+('c1-o4', 1, 4, 'In a short essay, explain why innovation is becoming increasingly important in today''s business world.', 'Innovation is becoming increasingly important because the business environment changes faster than ever ("white-water rapids"): global competition, rapidly changing technology and changing customer expectations mean that yesterday''s products and processes quickly become obsolete.
+
+• Survival and competitive advantage – organizations that don''t innovate lose customers to competitors that offer something new, better or cheaper (e.g. Kodak vs. digital photography, Blockbuster vs. Netflix).
+• Technology and digital disruption – new technologies (AI, smartphones, online platforms) constantly create disruptive innovations; firms must adapt or be replaced.
+• Customer expectations – customers expect constant improvements and personalized products.
+• It is part of every manager''s job – managers must create an environment where creativity is encouraged and new ideas are turned into useful products, services or processes (structure, culture and HR practices that support innovation).
+
+In short: innovation is no longer optional – it is a key source of competitive advantage and long-term survival.'),
+('c1-o5', 1, 5, 'In a short essay, compare the tasks, priorities, and responsibilities of first-line, middle, and top managers.', 'First-line managers (supervisors, shift managers, team leaders) – lowest level of management; they manage the work of nonmanagerial employees who produce the products or serve customers. Tasks: day-to-day operations, scheduling, assigning work, solving immediate problems. Priority: getting the daily work done efficiently. They spend most time on leading and need mostly technical and interpersonal skills.
+
+Middle managers (department heads, project managers, plant/regional managers) – between first-line and top level. Tasks: translate the goals set by top managers into specific plans and actions, coordinate units, manage first-line managers. Priority: implementing strategy and coordinating. Interpersonal skills are especially important; they spend much time on organizing and leading.
+
+Top managers (CEO, president, vice presidents) – responsible for organization-wide decisions, establishing plans and goals that affect the entire organization. Priority: long-term direction, strategy, overall structure, external relationships. They spend the most time on planning and organizing and need strong conceptual skills.
+
+All three perform the same four functions (planning, organizing, leading, controlling), but the emphasis and time horizon differ by level.'),
+('c1-o6', 1, 6, 'In a short essay, discuss the difference between efficiency and effectiveness.', 'Efficiency means getting the most output from the least amount of inputs (resources such as people, money, equipment) – "doing things right". It is about the means: not wasting resources, minimizing costs.
+
+Effectiveness means doing those work activities that help the organization reach its goals – "doing the right things". It is about the ends: goal attainment.
+
+The two are related but different: an organization can be efficient but not effective (e.g. cheaply producing a product nobody wants), or effective but not efficient (reaching the goal but wasting resources or time, like Brenda finishing high-quality projects but taking longer than others). Good management aims for both – high goal attainment with low resource waste. Poor management is usually both inefficient and ineffective, or effective but inefficient.')
 on conflict (id) do update set question = excluded.question, model_answer = excluded.model_answer;

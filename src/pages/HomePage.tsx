@@ -2,6 +2,7 @@ import { useMemo } from "react";
 import { useStore } from "../lib/store";
 import { cardStatus, isDue, type CardStatus } from "../lib/srs";
 import { go } from "../lib/router";
+import { EXAM, formatPoints, isPartBChapter } from "../lib/exam";
 
 type Counts = Record<CardStatus, number> & { due: number; total: number };
 
@@ -43,7 +44,31 @@ export default function HomePage() {
           <button className="primary" onClick={() => go("/study/all")}>
             Learn all chapters
           </button>
-          <button onClick={() => go("/test")}>Take a 30-question test</button>
+          <button onClick={() => go("/test")}>Midterm simulation ({chapters.length * EXAM.mcPerChapter} MC)</button>
+        </div>
+      </section>
+
+      <section className="card">
+        <h2>Midterm structure</h2>
+        <p className="muted small">{EXAM.durationMin} minutes · 100 points in total</p>
+        <div className="exam-grid">
+          <button className="exam-part" onClick={() => go("/test")}>
+            <h3>Part A · {formatPoints(chapters.length * EXAM.mcPerChapter * EXAM.mcPoints)} pts</h3>
+            <p className="small">
+              {chapters.length * EXAM.mcPerChapter} multiple choice, {EXAM.mcPerChapter} per chapter (Ch.{" "}
+              {chapters.map((c) => c.chapter).join(", ")}), {EXAM.mcPoints} pts each.
+            </p>
+          </button>
+          <button className="exam-part" onClick={() => go("/open/exam")}>
+            <h3>Part B · {EXAM.partBCount * EXAM.partBPoints} pts</h3>
+            <p className="small">
+              {EXAM.partBCount} short questions × {EXAM.partBPoints} pts – only Ch. {EXAM.partBChapters.join(", ")}.
+            </p>
+          </button>
+          <button className="exam-part" onClick={() => go("/open/c")}>
+            <h3>Part C · {EXAM.partCPoints} pts</h3>
+            <p className="small">Reflection: your 4 key takeaways and how they apply to your life. Keep it concise.</p>
+          </button>
         </div>
       </section>
 
@@ -52,11 +77,15 @@ export default function HomePage() {
         {chapters.map((ch) => {
           const s = stats.get(ch.chapter)!;
           const openCount = openQuestions.filter((o) => o.chapter === ch.chapter).length;
+          const partB = isPartBChapter(ch.chapter);
           return (
             <section key={ch.chapter} className="card chapter">
               <div className="chapter-head">
                 <span className="badge">Chapter {ch.chapter}</span>
-                {s.due > 0 && <span className="pill due">{s.due} due</span>}
+                <span className="row">
+                  {partB && <span className="pill exam">Part B</span>}
+                  {s.due > 0 && <span className="pill due">{s.due} due</span>}
+                </span>
               </div>
               <h3>{ch.title}</h3>
               <Bar c={s} />
@@ -95,7 +124,8 @@ export default function HomePage() {
             first pass or last-minute revision.
           </li>
           <li>
-            <b>Test</b> mixes 30 random questions from all chapters, like the real midterm, and grades you at the end.
+            <b>Test</b> simulates Part A of the midterm: 10 random questions from every chapter, mixed, graded with{" "}
+            {EXAM.mcPoints} points each.
           </li>
           <li>
             Questions marked <span className="pill corrected">corrected</span> have a different answer than what was circled

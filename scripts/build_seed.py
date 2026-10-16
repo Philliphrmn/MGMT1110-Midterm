@@ -24,7 +24,7 @@ def jlit(v):
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     answers = json.loads((DATA / "open_answers.json").read_text())
-    for path in sorted(DATA.glob("ch*.json")):
+    for path in sorted(DATA.glob("ch[0-9]*.json")):
         d = json.loads(path.read_text())
         c = d["chapter"]
         assert all(len(q["o"]) == 4 for q in d["mc"]), path
@@ -60,6 +60,14 @@ def main():
             )
         (OUT / f"ch{c}.sql").write_text("\n\n".join(sql) + "\n")
         print(f"chapter {c}: {len(d['mc'])} MC, {len(d.get('open', []))} open")
+
+    pc = json.loads((DATA / "part_c.json").read_text())
+    (OUT / "part_c.sql").write_text(
+        "insert into public.open_questions (id, chapter, num, question, model_answer, part) values\n"
+        f"({lit(pc['id'])}, null, 1, {lit(pc['question'])}, {lit(pc['model_answer'])}, 'C')\n"
+        "on conflict (id) do update set question = excluded.question, model_answer = excluded.model_answer, part = excluded.part;\n"
+    )
+    print("part C reflection question")
 
 
 if __name__ == "__main__":

@@ -3,6 +3,7 @@ import { fetchTests, useStore } from "../lib/store";
 import { go } from "../lib/router";
 import type { Question, TestResult } from "../lib/types";
 import { TestReview } from "./TestPage";
+import { MC_POINTS_LABEL } from "../lib/exam";
 
 export default function TestHistoryPage({ openId }: { openId?: string }) {
   const { questions } = useStore();
@@ -26,9 +27,10 @@ export default function TestHistoryPage({ openId }: { openId?: string }) {
         <button className="ghost" onClick={() => go("/test/history")}>
           ← All results
         </button>
-        <h1>
-          {open.score} / {open.total}
-        </h1>
+        <h1>{MC_POINTS_LABEL(open.score, open.total)}</h1>
+        <p className="muted">
+          {open.score} of {open.total} correct
+        </p>
         <TestReview questions={qs} answers={answers} />
       </div>
     );
@@ -59,10 +61,7 @@ export default function TestHistoryPage({ openId }: { openId?: string }) {
           <button key={t.id} className="card result-row" onClick={() => go(`/test/history/${t.id}`)}>
             <span>{new Date(t.created_at).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" })}</span>
             <span className={pct >= 80 ? "ok" : pct >= 60 ? "" : "error"}>
-              <b>
-                {t.score}/{t.total}
-              </b>{" "}
-              ({pct}%)
+              <b>{MC_POINTS_LABEL(t.score, t.total)}</b> · {t.score}/{t.total} ({pct}%)
             </span>
           </button>
         );

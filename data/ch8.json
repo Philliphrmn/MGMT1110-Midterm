@@ -1,0 +1,504 @@
+{
+ "chapter": 8,
+ "title": "Human Resource Management: Building Your Dream Team",
+ "mc": [
+  {
+   "n": 1,
+   "q": "The first three activities of the human resource management (HRM) process are about ________.",
+   "o": [
+    "recruiting",
+    "planning",
+    "training",
+    "downsizing"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 2,
+   "q": "Of the choices given, the most accurate description of the human resource management is that it is concerned with ________ competent employees.",
+   "o": [
+    "obtaining",
+    "obtaining, training, motivating, and retaining",
+    "obtaining, training, and motivating",
+    "training and keeping"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 3,
+   "q": "For the most part, ________ are involved in HR decisions within their own department or unit.",
+   "o": [
+    "very few managers",
+    "some managers",
+    "most managers",
+    "all managers"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 4,
+   "q": "Employment planning involves ________.",
+   "o": [
+    "addition of staff only",
+    "addition of staff and reduction of staff only",
+    "addition of staff, reduction of staff, and selection only",
+    "addition of staff, reduction of staff, motivation of staff, and selection"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 5,
+   "q": "Which one of the following is the goal of employment planning?",
+   "o": [
+    "selecting competent employees",
+    "obtaining competent employees with up-to-date skills",
+    "obtaining competent and high-performing employees",
+    "selecting high-performing employees only"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 6,
+   "q": "The last steps of the HRM process deal with ________.",
+   "o": [
+    "performance and compensation",
+    "training and compensation",
+    "compensation only",
+    "skills"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 7,
+   "q": "The most important environmental factor in the HRM process is ________.",
+   "o": [
+    "the business environment",
+    "the natural environment",
+    "the legal environment",
+    "the scientific community"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 8,
+   "q": "________ prohibits discrimination based on race, color, religion, national origin, or sex.",
+   "o": [
+    "The Privacy Act",
+    "Title VII of the Civil Rights Act",
+    "The Equal Pay Act",
+    "The Sarbanes-Oxley Act"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 9,
+   "q": "A wheelchair-bound applicant may be denied a job ________.",
+   "o": [
+    "under no circumstances",
+    "if the job is strenuous or physically tiring in some way",
+    "if the job requires complete physical mobility",
+    "in some states"
+   ],
+   "a": "C",
+   "marked": "C",
+   "note": "On the sheet B is also marked, C is circled. Under the Americans with Disabilities Act an applicant can only be rejected if the disability prevents performing essential job functions – e.g. a job requiring complete physical mobility."
+  },
+  {
+   "n": 10,
+   "q": "Affirmative action programs seek to make sure that employers ________ minority groups.",
+   "o": [
+    "pay equal wages to",
+    "enhance employment opportunities for",
+    "provide unemployment benefits for",
+    "establish training programs for"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 11,
+   "q": "Which U.S. law gives you the legal right to see your professor's letter of recommendation?",
+   "o": [
+    "Civil Rights Act of 1991",
+    "Privacy Act of 1974",
+    "Polygraph Protection Act of 1988",
+    "Sarbanes-Oxley Act of 2002"
+   ],
+   "a": "B",
+   "marked": "B",
+   "note": "On the sheet D is also circled. The Privacy Act of 1974 gives employees (and students) the right to examine letters of reference about them."
+  },
+  {
+   "n": 12,
+   "q": "In setting up interviews for an executive position, Francesca makes sure to include candidates of different ethnic backgrounds, including individuals from protected minority groups. Which kind of program is she attempting to carry out?",
+   "o": [
+    "minority protection",
+    "positive action",
+    "diversity protection",
+    "affirmative action"
+   ],
+   "a": "D",
+   "marked": "D",
+   "scenario": "The New Hire",
+   "note": "On the sheet B is also marked, D is circled. Programs that enhance employment opportunities for protected groups = affirmative action."
+  },
+  {
+   "n": 13,
+   "q": "Prior to setting up the interviews for the executive position, Francesca spent a great deal of time analyzing the position and determining what skills, attitudes, and actions it would require. This lengthy review is called a ________.",
+   "o": [
+    "job description",
+    "job specification",
+    "job title",
+    "job analysis"
+   ],
+   "a": "D",
+   "marked": "D",
+   "scenario": "The New Hire",
+   "note": "On the sheet B is also marked, D is circled. The lengthy assessment of a job and the behaviors needed to perform it = job analysis."
+  },
+  {
+   "n": 14,
+   "q": "The first step in any employment planning process involves making a ________.",
+   "o": [
+    "job description",
+    "human resource inventory",
+    "product evaluation",
+    "job specification"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 15,
+   "q": "The lengthy process by which a job is examined in detail in order to identify the skills, knowledge and behaviors necessary to perform the job is known as a ________.",
+   "o": [
+    "job description",
+    "job specification",
+    "job definition",
+    "job analysis"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 16,
+   "q": "As one of his first tasks in a new job, Steve's boss asks him to develop a database that lists the educational level, special capabilities, and specialized skills of all the employees in his firm. This is known as a ________.",
+   "o": [
+    "job description",
+    "human resource inventory",
+    "lengthy process",
+    "job analysis"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 17,
+   "q": "A job description is ________.",
+   "o": [
+    "not a written document",
+    "a written document used to describe a job to job candidates",
+    "something that employers keep secret from job candidates",
+    "the official title for the job"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 18,
+   "q": "A job specification is ________.",
+   "o": [
+    "a list of job qualifications",
+    "a detailed description of the job",
+    "the description of a job that is used by an employment agency",
+    "usually several pages in length"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 19,
+   "q": "HR managers can accurately estimate human resource needs for an organization by evaluating which one of the following?",
+   "o": [
+    "employment and unemployment statistics",
+    "the general state of the economy",
+    "demand for the organization's product",
+    "how competitors are performing"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 20,
+   "q": "A written statement of what a job holder does in his or her job, how it is done, and why it is done is known as a ________.",
+   "o": [
+    "job specification",
+    "job qualification",
+    "job definition",
+    "job description"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 21,
+   "q": "Downsizing seems to harm ________.",
+   "o": [
+    "victims who are dismissed only",
+    "both victims who are dismissed and survivors who stayed on",
+    "survivors who stayed on only",
+    "managers who carried out the dismissals and their families only"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 22,
+   "q": "To improve workplace diversity, a manager might ________.",
+   "o": [
+    "advertise in ethnic newspapers",
+    "tighten his recruiting net",
+    "solicit referrals from existing employees",
+    "post a notice that states he is an equal opportunity employer"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 23,
+   "q": "According to the EEOC, sexual harassment is ________ that creates a hostile environment, interferes with a person's work or diminishes the person's employment opportunities.",
+   "o": [
+    "any speech",
+    "any unwanted or unsolicited speech or physical conduct",
+    "any speech of a sexual nature",
+    "any speech or physical conduct of a sexual nature"
+   ],
+   "a": "B",
+   "marked": "B",
+   "note": "B is circled, D is also slightly marked on the sheet. The textbook definition stresses that the conduct is UNWANTED/unsolicited; please double-check with your instructor.",
+   "unsure": true
+  },
+  {
+   "n": 24,
+   "q": "________ are filed with the EEOC each year.",
+   "o": [
+    "More sexual harassment complaints from males than females",
+    "More sexual harassment complaints from females than males",
+    "About an equal number of sexual harassment complaints from males and females",
+    "Almost no sexual harassment complaints from males"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 25,
+   "q": "If an employee rebuffs inappropriate sexual advances from her boss but still receives a promotion, ________.",
+   "o": [
+    "the boss can't be guilty of sexual harassment",
+    "the employee is not allowed to lodge a complaint",
+    "the boss can still be guilty of sexual harassment",
+    "the employee is not allowed to lodge a complaint if she accepts the promotion"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 26,
+   "q": "The key to most sexual harassment cases against an organization is whether the organization ________.",
+   "o": [
+    "knew about the behavior and what it did to stop it",
+    "told other employees in the department that harassment occurred",
+    "fired the employee after the charges were lodged",
+    "had hired a known sex offender"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 27,
+   "q": "What financial threat does sexual harassment pose to companies?",
+   "o": [
+    "minor risk of fine",
+    "small legal fees only",
+    "enormous risk of major lawsuit settlements",
+    "none, because companies are insured against harassment"
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 28,
+   "q": "Who would usually hear an appeal if an employee felt he or she had been inappropriately accused of sexual harassment?",
+   "o": [
+    "the employee's direct supervisor",
+    "the director of human resources",
+    "a manager at a higher level not associated with the case",
+    "a manager at a higher level who is already involved in the case"
+   ],
+   "a": "C",
+   "marked": "C",
+   "note": "On the sheet B is also marked, C is circled. Appeals should be heard by a higher-level manager who is not associated with the case."
+  },
+  {
+   "n": 29,
+   "q": "Which one of the following would be considered grounds for a sexual harassment charge?",
+   "o": [
+    "jokes that had a sexual theme but no one found offensive",
+    "artwork that, while some considered classic, made some employees feel uncomfortable",
+    "hiring a male employee who had been previously convicted of a sex crime",
+    "consensual dating between an employee and supervisor"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 30,
+   "q": "Part-time, temporary, and contract workers who are available for hire on an as-needed basis are known as ________.",
+   "o": [
+    "consultants",
+    "core employees",
+    "summer employees",
+    "a contingent workforce"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 31,
+   "q": "Which one of the following is commonly considered a category of workforce diversity?",
+   "o": [
+    "education level",
+    "computer skills",
+    "style of dress",
+    "age"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 32,
+   "q": "Which one of the following would be most likely to be true of two random people of the same race?",
+   "o": [
+    "They are likely to have very different skin color and hair type.",
+    "They are unlikely to speak the same language.",
+    "They are likely to have similar skin color and hair type.",
+    "They are likely to share the same cultural traditions."
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 33,
+   "q": "In addition to prohibiting age discrimination, what else does the Age Discrimination Act do?",
+   "o": [
+    "Sets the mandatory age for receiving Social Security benefits.",
+    "Allows for early retirement for age related causes of poor performance.",
+    "Restricts mandatory retirement at specific ages.",
+    "Created the Equal Employment Opportunity Commission."
+   ],
+   "a": "C",
+   "marked": "C"
+  },
+  {
+   "n": 34,
+   "q": "Which kind of discrimination is NOT prohibited under federal law?",
+   "o": [
+    "discrimination against gays and lesbians",
+    "discrimination against Muslims",
+    "discrimination against people from the Middle East",
+    "discrimination against women or men"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 35,
+   "q": "Which problems are women LEAST likely to face in today's workplace?",
+   "o": [
+    "a gender pay gap",
+    "being outnumbered in the workplace",
+    "career interruptions due to childbirth",
+    "skepticism about whether they are qualified to do the job"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 36,
+   "q": "Which one of the following countries' laws pertaining to HRM practices is most closely parallel to those in the United States?",
+   "o": [
+    "Canada",
+    "Mexico",
+    "Australia",
+    "Germany"
+   ],
+   "a": "A",
+   "marked": "A"
+  },
+  {
+   "n": 37,
+   "q": "________ in Germany give(s) employees the right to participate in personnel decisions.",
+   "o": [
+    "Collective bargaining",
+    "Unionization",
+    "Board representatives",
+    "Work councils"
+   ],
+   "a": "D",
+   "marked": "D",
+   "note": "On the sheet C is also marked, D is circled. German work councils (Betriebsräte) give employees co-determination rights in personnel decisions; board representatives sit on the supervisory board."
+  },
+  {
+   "n": 38,
+   "q": "In global companies, a major cause of the line between work and non-work getting blurred is ________.",
+   "o": [
+    "employees needing to commute long distances",
+    "needing to communicate with overseas operations in different time zones",
+    "needing to communicate on a face-to-face basis with employees",
+    "employees needing to work on holidays"
+   ],
+   "a": "B",
+   "marked": "B"
+  },
+  {
+   "n": 39,
+   "q": "To find out more about a job with a title of \"assistant media buyer,\" you would find this to be most helpful.",
+   "o": [
+    "job title",
+    "job specification",
+    "job listing",
+    "job description"
+   ],
+   "a": "D",
+   "marked": "D"
+  },
+  {
+   "n": 40,
+   "q": "Which one of the following is the goal of employment planning?",
+   "o": [
+    "selecting competent employees",
+    "obtaining competent employees with up-to-date skills",
+    "obtaining competent and high-performing employees",
+    "selecting high-performing employees only"
+   ],
+   "a": "A",
+   "marked": "A",
+   "note": "Same question as Q5. On the sheet A and C are both circled here; A is consistent with Q5 (employment planning ensures competent employees are identified and selected)."
+  }
+ ],
+ "scenarios": {
+  "The New Hire": "Francesca begins her career working in the human resources department of a major corporation. She is asked to help ensure the organization is following the federal guidelines for employment."
+ },
+ "open": [
+  "In a short essay, discuss why sexual harassment is such a difficult problem in today's workplace.",
+  "In a short essay, discuss how workforce diversity is directly affected by recruitment, selection, orientation, and training."
+ ]
+}
