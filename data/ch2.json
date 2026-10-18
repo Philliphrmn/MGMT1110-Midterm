@@ -319,13 +319,13 @@
    "q": "Structured problems are ________.",
    "o": [
     "ambiguous",
-    "clear and straightforward",
     "undefined and vague",
+    "clear and straightforward",
     "incomplete"
    ],
    "a": "C",
    "marked": "C",
-   "note": "On the sheet both A and C are circled. Structured problems are straightforward, familiar and easily defined → C."
+   "note": "On the sheet both A and C are circled. Structured problems are straightforward, familiar and easily defined → C (clear and straightforward)."
   },
   {
    "n": 27,
