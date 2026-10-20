@@ -39,7 +39,8 @@ export default function TestPage() {
         <h1>Midterm simulation</h1>
         <p className="muted">
           Part A exactly like the real midterm: {midtermCount} multiple-choice questions, {EXAM.mcPerChapter} from each
-          chapter ({chapters.map((c) => c.chapter).join(", ")}), mixed. Each correct answer is worth {EXAM.mcPoints} points
+          chapter ({chapters.map((c) => c.chapter).join(", ")}), mixed – and the answer options are shuffled too, so you
+          can't rely on remembering the letter. Each correct answer is worth {EXAM.mcPoints} points
           → {formatPoints(midtermCount * EXAM.mcPoints)} points in total. The real exam takes {EXAM.durationMin} minutes for
           Parts A–C together.
         </p>
@@ -112,6 +113,19 @@ function RunningTest({
   const [idx, setIdx] = useState(0);
   const [submitted, setSubmitted] = useState(false);
   const [startedAt] = useState(() => Date.now());
+  // In the midterm simulation the answer options are shuffled per question.
+  // perms[i][d] = original option index shown at display position d. Answers are stored as ORIGINAL letters,
+  // so scoring, the review and saved results stay the same.
+  const [perms] = useState(() =>
+    questions.map((q) => (midterm ? shuffle(q.options.map((_, j) => j)) : q.options.map((_, j) => j))),
+  );
+  const toOriginal = (i: number, l: Letter): Letter => LETTERS[perms[i][LETTERS.indexOf(l)]];
+  const toDisplay = (i: number, l: Letter | null): Letter | null =>
+    l === null ? null : LETTERS[perms[i].indexOf(LETTERS.indexOf(l))];
+  const shown = (i: number): Question => {
+    const qq = questions[i];
+    return { ...qq, options: perms[i].map((j) => qq.options[j]), answer: toDisplay(i, qq.answer)! };
+  };
   const [elapsed, setElapsed] = useState(0);
   const [saveError, setSaveError] = useState<string | null>(null);
 
@@ -123,7 +137,6 @@ function RunningTest({
 
   const score = useMemo(() => answers.filter((a, i) => a === questions[i].answer).length, [answers, questions]);
   const unanswered = answers.filter((a) => a === null).length;
-  const q = questions[idx];
 
   async function submit() {
     if (unanswered > 0 && !confirm(`${unanswered} question(s) unanswered. Submit anyway?`)) return;
@@ -151,13 +164,14 @@ function RunningTest({
     const onKey = (e: KeyboardEvent) => {
       const k = e.key.toLowerCase();
       const n = ["1", "2", "3", "4"].indexOf(k) >= 0 ? Number(k) - 1 : ["a", "b", "c", "d"].indexOf(k);
-      if (n >= 0) setAnswers((a) => a.map((v, i) => (i === idx ? LETTERS[n] : v)));
+      if (n >= 0 && n < questions[idx].options.length)
+        setAnswers((a) => a.map((v, i) => (i === idx ? toOriginal(idx, LETTERS[n]) : v)));
       else if (k === "arrowright" || k === "enter") setIdx((i) => Math.min(questions.length - 1, i + 1));
       else if (k === "arrowleft") setIdx((i) => Math.max(0, i - 1));
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [submitted, idx, questions.length]);
+  }, [submitted, idx, questions]);
 
   const mmss = `${Math.floor(elapsed / 60)}:${String(elapsed % 60).padStart(2, "0")}`;
 
@@ -201,11 +215,11 @@ function RunningTest({
       </div>
       <div className="card">
         <QuestionView
-          q={q}
-          chosen={answers[idx]}
+          q={shown(idx)}
+          chosen={toDisplay(idx, answers[idx])}
           revealed={false}
           hideHints
-          onChoose={(l) => setAnswers((a) => a.map((v, i) => (i === idx ? l : v)))}
+          onChoose={(l) => setAnswers((a) => a.map((v, i) => (i === idx ? toOriginal(idx, l) : v)))}
         />
         <div className="row between">
           <button disabled={idx === 0} onClick={() => setIdx(idx - 1)}>
